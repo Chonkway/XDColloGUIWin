@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace XD_GoD_GUI.Properties {
+namespace XDGoDGUI.Properties {
     using System;
     
     

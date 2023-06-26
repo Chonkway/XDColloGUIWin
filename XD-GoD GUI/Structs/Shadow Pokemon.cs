@@ -11,10 +11,10 @@ struct ShadowPokemon {
     char catchRate; // offset: 0x1 Overrides the base catch rate for the species
     char shadowBoostLevel; // offset: 0x2 The hidden level the pokemon has before you catch it
     char statusFlags[1]; // offset: 0x3 
-    uint32_t pokemonIndexInStoryDeck; // offset: 0x4 The ID in Deck Story for the pokemon that this shadow ID is attached to
-    uint16_t heartGuage; // offset: 0x8 Determines how long it takes to purify the pokemon
-    uint16_t padding; // offset: 0xA 
-    uint16_t shadowMoves[4]; // offset: 0xC 
+    uint pokemonIndexInStoryDeck; // offset: 0x4 The ID in Deck Story for the pokemon that this shadow ID is attached to
+    ushort heartGuage; // offset: 0x8 Determines how long it takes to purify the pokemon
+    ushort padding; // offset: 0xA 
+    ushort shadowMoves[4]; // offset: 0xC 
     char aggression; // offset: 0x14 The lower the value, the more likely it is to enter reverse mode
     char fleesWhenPlayerLoses; // offset: 0x15 Determines if the pokemon should go to Miror B even if the player lost the battle
 };

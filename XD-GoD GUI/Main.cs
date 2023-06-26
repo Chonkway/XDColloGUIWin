@@ -1,14 +1,10 @@
 using System;
 using System.IO;
+using System.Text;
 
 namespace XD_GoD_GUI
-{
-    public struct ByteInfo
-    {
-        byte[] byteArray; // Array of bytes to be written to for required data manipulation
-        int currentOffset; //Write offset location for editing byte array and, subsequently, re-writing
-        int blockLength; //For each Pokemon block in the db, store the length and commpare the number of bytes to be written to that block. Lets us remove 0's from empty header and insert 0's to the end before writing bytes to ensure nothing is overwritten
-    }
+
+{ 
     public partial class Main : Form
     {
         public Main()
@@ -53,11 +49,29 @@ namespace XD_GoD_GUI
             {
                 if (CurrentFile.ShowDialog() == DialogResult.OK)
                 {
-                    var VersionInfo = new ByteInfo(); //Instantiate struct
-                    string path = CurrentFile.ToString();
+                    string path;
+                    path = CurrentFile.FileName;
 
-                    Console.WriteLine(path);
+                    using(FileStream fsSource = new FileStream(path, FileMode.Open, FileAccess.Read))
+                    {
+                        // Read bytes into array
+                        byte[] bytes = new byte[6]; // Only first 6 bytes contain version info
+                        int bytesToRead = 0;
 
+                        while (bytesToRead <= 6) // Ensures we read all 6 bytes
+                        {
+                            int n = fsSource.Read(bytes, 0, 6);
+                            bytesToRead += n;
+
+                            if(bytesToRead > 6) //Failsafe ensuring the loop is broken when overstepping 6 bytes
+                            {
+                                break;
+                            }
+                            string GameID = System.Text.Encoding.ASCII.GetString(bytes);
+                            DialogResult result = MessageBox.Show("You have selected:\n" + GameID);
+                        }
+
+                    }
                     {
                     }
                 }

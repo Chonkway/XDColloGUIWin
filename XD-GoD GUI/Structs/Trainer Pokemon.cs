@@ -16,15 +16,15 @@ struct ByteStats {
 };
 
 struct TrainerPokemon {
-    uint16_t species; // offset: 0x0 
+    ushort species; // offset: 0x0 
     char level; // offset: 0x2 
     char happiness; // offset: 0x3 
-    uint16_t item; // offset: 0x4 
+    ushort item; // offset: 0x4 
     char aiRole; // offset: 0x6 
     char unknown; // offset: 0x7 
-    struct ByteStats ivs; // offset: 0x8 
-    struct ByteStats evs; // offset: 0xE 
-    uint16_t moves[4]; // offset: 0x14 
+    //struct ByteStats ivs{} // offset: 0x8 
+    //struct ByteStats evs; // offset: 0xE 
+    //ushort moves[]; // offset: 0x14 
     char unused; // offset: 0x1C 
     char unknown2; // offset: 0x1D 
     char miniPid; // offset: 0x1E 
