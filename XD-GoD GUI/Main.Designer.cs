@@ -35,9 +35,9 @@
             saveFileDialog1 = new SaveFileDialog();
             tabControl1 = new TabControl();
             tabPage1 = new TabPage();
+            textBox1 = new TextBox();
             tabPage2 = new TabPage();
             button1 = new Button();
-            textBox1 = new TextBox();
             menuStrip1.SuspendLayout();
             tabControl1.SuspendLayout();
             tabPage1.SuspendLayout();
@@ -97,6 +97,16 @@
             tabPage1.Text = "File Information";
             tabPage1.UseVisualStyleBackColor = true;
             // 
+            // textBox1
+            // 
+            textBox1.BackColor = Color.LightGray;
+            textBox1.BorderStyle = BorderStyle.None;
+            textBox1.Location = new Point(8, 6);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(781, 362);
+            textBox1.TabIndex = 0;
+            // 
             // tabPage2
             // 
             tabPage2.Controls.Add(button1);
@@ -117,15 +127,6 @@
             button1.TabIndex = 0;
             button1.Text = "Randomize!";
             button1.UseVisualStyleBackColor = true;
-            // 
-            // textBox1
-            // 
-            textBox1.BackColor = Color.LightGray;
-            textBox1.Location = new Point(8, 6);
-            textBox1.Multiline = true;
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(781, 362);
-            textBox1.TabIndex = 0;
             // 
             // Main
             // 

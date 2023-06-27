@@ -1,4 +1,7 @@
-﻿namespace VersionInfo
+﻿using System.IO;
+using XD_GoD_GUI;
+
+namespace VersionInfo
 {
 public struct GameInfo
 {
@@ -7,7 +10,6 @@ public struct GameInfo
     public string GXXP01 = "Pokémon XD: Gale of Darkness (EU)";
     public string Unknown = "Unknown Title (Unknown Region) [Broken/Custom Game?]";
     public long FileSize;
-
     public GameInfo()
     {
     }
