@@ -37,8 +37,10 @@
             tabPage1 = new TabPage();
             tabPage2 = new TabPage();
             button1 = new Button();
+            textBox1 = new TextBox();
             menuStrip1.SuspendLayout();
             tabControl1.SuspendLayout();
+            tabPage1.SuspendLayout();
             tabPage2.SuspendLayout();
             SuspendLayout();
             // 
@@ -86,6 +88,7 @@
             // 
             // tabPage1
             // 
+            tabPage1.Controls.Add(textBox1);
             tabPage1.Location = new Point(4, 34);
             tabPage1.Name = "tabPage1";
             tabPage1.Padding = new Padding(3);
@@ -115,6 +118,15 @@
             button1.Text = "Randomize!";
             button1.UseVisualStyleBackColor = true;
             // 
+            // textBox1
+            // 
+            textBox1.BackColor = Color.LightGray;
+            textBox1.Location = new Point(8, 6);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(781, 362);
+            textBox1.TabIndex = 0;
+            // 
             // Main
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -130,6 +142,8 @@
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             tabControl1.ResumeLayout(false);
+            tabPage1.ResumeLayout(false);
+            tabPage1.PerformLayout();
             tabPage2.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
@@ -147,5 +161,6 @@
         private TabPage tabPage1;
         private TabPage tabPage2;
         private Button button1;
+        private TextBox textBox1;
     }
 }
