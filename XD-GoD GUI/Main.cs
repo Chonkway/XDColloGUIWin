@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using System.Text;
+using System.Xml;
 using VersionInfo;
 
 namespace XD_GoD_GUI
@@ -53,6 +54,7 @@ namespace XD_GoD_GUI
             {
                 if (CurrentFile.ShowDialog() == DialogResult.OK)
                 {
+                    textBox1.Clear(); // clears all previous information displayed 
                     string path;
                     path = CurrentFile.FileName;
                     var fileInfo = new VersionInfo.GameInfo();
@@ -79,18 +81,19 @@ namespace XD_GoD_GUI
 
                             if (GameID is "GXXE01" == true)
                             {
-                                string gameTitle = fileInfo.GXXE01;
+                                string gameTitle = fileInfo.GXXE01; // need to fix scope for gameTitle
+                                textBox1.AppendText(GameID + Environment.NewLine + gameTitle + Environment.NewLine + fileInfo.FileSize + " bytes");
                             }
                             else if (GameID is "GXXP01" == true)
                             {
                                 string gameTitle = fileInfo.GXXP01;
+                                textBox1.AppendText(GameID + Environment.NewLine + gameTitle + Environment.NewLine + fileInfo.FileSize + " bytes");
                             }
                             else 
                             {
                                 string gameTitle = fileInfo.Unknown;
+                                textBox1.AppendText(GameID + Environment.NewLine + gameTitle + Environment.NewLine + fileInfo.FileSize + " bytes");
                             }
-
-
                         }
 
                     }
