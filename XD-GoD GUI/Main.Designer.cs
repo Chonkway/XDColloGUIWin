@@ -162,6 +162,6 @@
         private TabPage tabPage1;
         private TabPage tabPage2;
         private Button button1;
-        private TextBox textBox1;
+        public TextBox textBox1;
     }
 }

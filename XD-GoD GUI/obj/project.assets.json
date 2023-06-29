@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\penot\\OneDrive\\Documents\\XD-GoD GUI\\XD-GoD GUI\\XD-GoD GUI.csproj",
+      "projectUniqueName": "C:\\Users\\penot\\OneDrive\\Documents\\GitHub\\XDColloGUIWin\\XD-GoD GUI\\XD-GoD GUI.csproj",
       "projectName": "XD-GoD GUI",
-      "projectPath": "C:\\Users\\penot\\OneDrive\\Documents\\XD-GoD GUI\\XD-GoD GUI\\XD-GoD GUI.csproj",
+      "projectPath": "C:\\Users\\penot\\OneDrive\\Documents\\GitHub\\XDColloGUIWin\\XD-GoD GUI\\XD-GoD GUI.csproj",
       "packagesPath": "C:\\Users\\penot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\penot\\OneDrive\\Documents\\XD-GoD GUI\\XD-GoD GUI\\obj\\",
+      "outputPath": "C:\\Users\\penot\\OneDrive\\Documents\\GitHub\\XDColloGUIWin\\XD-GoD GUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
