@@ -10,8 +10,9 @@ public struct GameInfo
     public string GXXP01 = "Pokémon XD: Gale of Darkness (EU)";
     public string Unknown = "Unknown Title (Unknown Region) [Broken/Custom Game?]";
     public long FileSize;
-    public GameInfo()
-    {
+
+        public GameInfo()
+        {
+        }
     }
-}
     }

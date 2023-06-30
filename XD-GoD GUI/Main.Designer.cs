@@ -99,6 +99,7 @@
             // 
             // textBox1
             // 
+            textBox1.AcceptsReturn = true;
             textBox1.BackColor = Color.LightGray;
             textBox1.BorderStyle = BorderStyle.None;
             textBox1.Location = new Point(8, 6);
