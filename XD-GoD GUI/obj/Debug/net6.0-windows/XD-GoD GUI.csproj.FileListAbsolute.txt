@@ -52,3 +52,7 @@ C:\Users\penot\OneDrive\Documents\GitHub\XDColloGUIWin\XD-GoD GUI\bin\Debug\net6
 C:\Users\penot\OneDrive\Documents\GitHub\XDColloGUIWin\XD-GoD GUI\bin\Debug\net6.0-windows\XD-GoD GUI.pdb
 C:\Users\penot\OneDrive\Documents\GitHub\XDColloGUIWin\XD-GoD GUI\obj\Debug\net6.0-windows\XD-GoD GUI.genruntimeconfig.cache
 C:\Users\penot\OneDrive\Documents\GitHub\XDColloGUIWin\XD-GoD GUI\obj\Debug\net6.0-windows\ref\XD-GoD GUI.dll
+C:\Users\penot\OneDrive\Documents\GitHub\XDColloGUIWin\XD-GoD GUI\bin\Debug\net6.0-windows\DiscUtils.Core.dll
+C:\Users\penot\OneDrive\Documents\GitHub\XDColloGUIWin\XD-GoD GUI\bin\Debug\net6.0-windows\DiscUtils.Iso9660.dll
+C:\Users\penot\OneDrive\Documents\GitHub\XDColloGUIWin\XD-GoD GUI\bin\Debug\net6.0-windows\DiscUtils.Streams.dll
+C:\Users\penot\OneDrive\Documents\GitHub\XDColloGUIWin\XD-GoD GUI\obj\Debug\net6.0-windows\XD-GoD GUI.csproj.CopyComplete

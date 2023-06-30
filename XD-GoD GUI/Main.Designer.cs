@@ -38,6 +38,7 @@
             textBox1 = new TextBox();
             tabPage2 = new TabPage();
             button1 = new Button();
+            progressBar1 = new ProgressBar();
             menuStrip1.SuspendLayout();
             tabControl1.SuspendLayout();
             tabPage1.SuspendLayout();
@@ -110,6 +111,7 @@
             // 
             // tabPage2
             // 
+            tabPage2.Controls.Add(progressBar1);
             tabPage2.Controls.Add(button1);
             tabPage2.Location = new Point(4, 34);
             tabPage2.Name = "tabPage2";
@@ -128,6 +130,13 @@
             button1.TabIndex = 0;
             button1.Text = "Randomize!";
             button1.UseVisualStyleBackColor = true;
+            // 
+            // progressBar1
+            // 
+            progressBar1.Location = new Point(8, 77);
+            progressBar1.Name = "progressBar1";
+            progressBar1.Size = new Size(286, 34);
+            progressBar1.TabIndex = 1;
             // 
             // Main
             // 
@@ -164,5 +173,6 @@
         private TabPage tabPage2;
         private Button button1;
         public TextBox textBox1;
+        private ProgressBar progressBar1;
     }
 }

@@ -3,6 +3,7 @@ using System.IO;
 using System.Text;
 using System.Xml;
 using VersionInfo;
+using DiscUtils.Iso9660;
 
 namespace XD_GoD_GUI
 
@@ -125,7 +126,9 @@ namespace XD_GoD_GUI
 
 
 
+
                         }
+                        fsSource.Close();
 
                     }
                     {
@@ -144,7 +147,33 @@ namespace XD_GoD_GUI
 
         private void optionsToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            char offset;
+            byte totalbytes;
+            int trainerslots;
 
+            using (FileStream isostream = System.IO.File.Open(path, FileMode.Open))
+            {
+
+
+                offset = '\x3328'; // Story data blocks begin here
+                totalbytes = 32; //each trainer slot is 32 bytes long
+                trainerslots = 10; //placeholder, replace with total # of trainer slots
+
+                int writestogo = 0;
+                ushort[][] storedbbytes = new ushort[trainerslots][];
+
+                while(writestogo < totalbytes*trainerslots) 
+                {
+                    // open file and read at offset 0x3228
+                    
+                }
+
+                CDReader iso = new CDReader(isostream, true);
+                Stream filestream = iso.OpenFile(path, FileMode.Open);
+
+                
+                // 
+            }
+            }
         }
     }
-}

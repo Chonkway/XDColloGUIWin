@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Wi0CVpaxH3JFU5asH/M4JMV4Kz4jT3sMbio0R7JG/Nt83es/R07YXvm5A6GaqSqOdBCq6Xz7ZRDihvQBf/zU7w==",
+  "dgSpecHash": "TA/oGwGXjwmqn5mnI5iG5a8h68cpkmhehzm5zqGUncgLS6XIO+wY1nVY4+fQZ+jDEVHW3MNUkC3VqSB38w5YTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\penot\\OneDrive\\Documents\\GitHub\\XDColloGUIWin\\XD-GoD GUI\\XD-GoD GUI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\penot\\.nuget\\packages\\discutils.core\\0.16.13\\discutils.core.0.16.13.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\discutils.iso9660\\0.16.13\\discutils.iso9660.0.16.13.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\discutils.streams\\0.16.13\\discutils.streams.0.16.13.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
