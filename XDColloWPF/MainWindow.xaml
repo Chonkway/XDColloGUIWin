@@ -33,8 +33,29 @@
                     </TextBlock>
                 </Grid>
             </TabItem>
-            <TabItem Header="Randomizer">
-                <Grid Background="#FFE5E5E5"/>
+            <TabItem Header="Randomizer" Name ="RandomizerGroup">
+                <Grid Background="#FFE5E5E5">
+                    <CheckBox Content="Randomize Starter Pokemon" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Randomize Obtainable Pokemon" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Randomize NPC Trainer Pokemon (Unobtainable)" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Randomize Moves" HorizontalAlignment="Left" Margin="10,105,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Randomize Pokemon Types" HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Randomize Move Types" HorizontalAlignment="Left" Margin="10,145,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Randomize Type Matchups" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Randomize TM/Tutor Moves" HorizontalAlignment="Left" Margin="10,185,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Randomize Evolutions" HorizontalAlignment="Left" Margin="10,205,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Random Item Boxes" HorizontalAlignment="Left" Margin="10,225,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Randomize Shiny Hues" HorizontalAlignment="Left" Margin="10,245,0,0" VerticalAlignment="Top"/>
+                    <CheckBox Content="Randomize Battle Bingo" HorizontalAlignment="Left" Margin="10,265,0,0" VerticalAlignment="Top"/>
+                    <Slider Name ="LvlMultiplier" HorizontalAlignment="Left" Margin="639,73,0,0" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+                    <Label Name="LvlLabel" Content="NPC Level Multiplier" HorizontalAlignment="Left" Margin="640,47,0,0" VerticalAlignment="Top" Opacity="0.5"/>
+                    <Image Margin="730,324,0,0" Source="/body_032.png" Stretch="Fill" RenderTransformOrigin="0.328,0.064"/>
+                    <Slider Name="AIVals" HorizontalAlignment="Left" Margin="637,144,0,0" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+                    <Label Name="AIValLabel" Content="Set All Non-Boss Trainer AI Values" HorizontalAlignment="Left" Margin="573,113,0,0" VerticalAlignment="Top" Opacity="0.5"/>
+                    <Label x:Name="XpMultiplier" Content="XP Multiplier" HorizontalAlignment="Left" Margin="667,185,0,0" VerticalAlignment="Top" Opacity="0.5"/>
+                    <Slider x:Name="XPMultiplier" HorizontalAlignment="Left" Margin="639,216,0,0" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+                </Grid>
+
             </TabItem>
             <TabItem Header="Tools">
                 <Grid Background="#FFE5E5E5"/>
@@ -43,6 +64,9 @@
                 <Grid Background="#FFE5E5E5"/>
             </TabItem>
             <TabItem Header="Tables">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Trainer Editor">
                 <Grid Background="#FFE5E5E5"/>
             </TabItem>
         </TabControl>
