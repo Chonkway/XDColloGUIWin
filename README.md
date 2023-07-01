@@ -1,4 +1,4 @@
-# XDColloGUIWin
+# Pokemon XD:Gale of Darkness Editor Tool
 
   This tool is a C# based Windows GUI tool to edit the Pokemon XD: Gale of Darkness and Colosseum games on the Gamecube. It was based on the original tool developed by 
 [StarsMMD](https://github.com/StarsMmd/GoD-Tool/tree/main). His tool is truly amazing, but porting Swift over to Windows causes its fair share of issues, particularly with
