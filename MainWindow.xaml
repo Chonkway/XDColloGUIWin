@@ -1,0 +1,53 @@
+﻿<Window x:Class="XDColloWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XDColloWPF"
+        mc:Ignorable="d"
+        Title="XD:GoD GUI" Height="450" Width="800" 
+        ResizeMode="NoResize" Icon="./Resources/XDGoD.ico">
+
+    <Window.Resources>
+
+    </Window.Resources>
+
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" x:Name="MenuStrip">
+            <MenuItem Header="File">
+                <MenuItem Header="_Open" Click="FileOpen"/>
+                <MenuItem Header="_Save"/>
+                <MenuItem Header="_Exit"/>
+                <MenuItem Header = "_Free Space"/>
+
+            </MenuItem>
+            <MenuItem Header = "About">
+            </MenuItem>
+        </Menu>
+        <TabControl>
+            <TabItem Header="File Info">
+
+                <Grid Background="#FFE5E5E5">
+                    <TextBlock x:Name ="FileInfo" >
+
+                    </TextBlock>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Randomizer">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Tools">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="File List">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Tables">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+    </DockPanel>
+
+
+
+</Window>
