@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "dguE65rbZuZjv/2kuY/YDLUBz0K0BsJEiHIgFWta2n43s5w1ODZintM62HXyEAlU1lWvPRfT2sASfI4qLUWbTQ==",
+  "dgSpecHash": "0Z6yurg7W8HMwi5K1/l45mgA5jfrKSNrXFtZ5kPGu581UmoWDvkvzZbWSELvv2+D2PL1sCDj3yiGAFWLaIN8TA==",
   "success": true,
   "projectFilePath": "C:\\Users\\penot\\source\\repos\\XDColloWPF\\XDColloWPF\\XDColloWPF.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\penot\\.nuget\\packages\\discutils.core\\0.16.13\\discutils.core.0.16.13.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\discutils.iso9660\\0.16.13\\discutils.iso9660.0.16.13.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\discutils.opticaldisk\\0.16.13\\discutils.opticaldisk.0.16.13.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\discutils.streams\\0.16.13\\discutils.streams.0.16.13.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\discutils.udf\\0.16.13\\discutils.udf.0.16.13.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\penot\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

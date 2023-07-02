@@ -3,6 +3,9 @@ using System.Windows;
 using System.Windows.Controls;
 using FileHandle;
 using Microsoft.Win32;
+using XDColloWPF.Randomize;
+using DiscUtils.Iso9660;
+using System;
 
 namespace XDColloWPF
 {
@@ -11,6 +14,8 @@ namespace XDColloWPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        public static string fpath;
+
         public MainWindow()
         {
             InitializeComponent();
@@ -24,14 +29,16 @@ namespace XDColloWPF
             {
                 if (ofd.ShowDialog() == true)
                 {
-                    string fpath = ofd.FileName;
+                    fpath = ofd.FileName;
                     var finfo = FileHandling.FileInfo(ofd.FileName); // Info
 
-                    FileInfo.Text = ("Editing: " + fpath + "\n" + 
+                    FileInfo.Text = ("Editing: " + fpath + "\n" +
                         "GameID: " + finfo[1] + "\n" +
 
                        "Title: " + finfo[0]);
+                    
                 }
+                
             }
 
             catch (IOException) { }
@@ -41,6 +48,11 @@ namespace XDColloWPF
         private void AdditionalFeatures_IsEnabledChanged(object sender, DependencyPropertyChangedEventArgs e)
         {
             throw new System.NotImplementedException();
+        }
+
+        private void RandomizeButton_Click(object sender, RoutedEventArgs e)
+        {
+
         }
 
         //private void RandomizerElements (object sender, RoutedEventArgs e)

@@ -19,3 +19,9 @@ C:\Users\penot\source\repos\XDColloWPF\XDColloWPF\obj\Debug\net6.0-windows\refin
 C:\Users\penot\source\repos\XDColloWPF\XDColloWPF\obj\Debug\net6.0-windows\XDColloWPF.pdb
 C:\Users\penot\source\repos\XDColloWPF\XDColloWPF\obj\Debug\net6.0-windows\XDColloWPF.genruntimeconfig.cache
 C:\Users\penot\source\repos\XDColloWPF\XDColloWPF\obj\Debug\net6.0-windows\ref\XDColloWPF.dll
+C:\Users\penot\source\repos\XDColloWPF\XDColloWPF\bin\Debug\net6.0-windows\DiscUtils.Core.dll
+C:\Users\penot\source\repos\XDColloWPF\XDColloWPF\bin\Debug\net6.0-windows\DiscUtils.Iso9660.dll
+C:\Users\penot\source\repos\XDColloWPF\XDColloWPF\bin\Debug\net6.0-windows\DiscUtils.Streams.dll
+C:\Users\penot\source\repos\XDColloWPF\XDColloWPF\obj\Debug\net6.0-windows\XDColloWPF.csproj.CopyComplete
+C:\Users\penot\source\repos\XDColloWPF\XDColloWPF\bin\Debug\net6.0-windows\DiscUtils.OpticalDisk.dll
+C:\Users\penot\source\repos\XDColloWPF\XDColloWPF\bin\Debug\net6.0-windows\DiscUtils.Udf.dll

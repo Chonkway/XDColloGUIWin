@@ -20,7 +20,7 @@ namespace FileHandle
 
             List<string> info = new List<string>(); //might need to cast elements to the array idk yet
 
-            using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read, FileShare.Read))
+            using (FileStream fs = new FileStream(path, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
             {
                 byte[] bytes = new byte[6]; // Only first 6 bytes contain version info
                 fs.Read(bytes, 0, 6);
@@ -53,9 +53,11 @@ namespace FileHandle
                         }
                         break;
 
+                       
+
 
                 } return info;
-
+                  
             }
         }
     }
