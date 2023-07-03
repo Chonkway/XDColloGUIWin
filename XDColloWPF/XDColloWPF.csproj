@@ -12,12 +12,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Resources\XDGoD.ico" />
+    <PackageReference Include="IronPython" Version="3.4.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="DiscUtils.Iso9660" Version="0.16.13" />
-    <PackageReference Include="DiscUtils.OpticalDisk" Version="0.16.13" />
+    <Resource Include="Resources\XDGoD.ico" />
   </ItemGroup>
 
 </Project>

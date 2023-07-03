@@ -1,0 +1,5022 @@
+{
+    "boot.bin": [
+        0,
+        1088
+    ],
+    "bi2.bin": [
+        1088,
+        8192
+    ],
+    "fst.bin": [
+        4464896,
+        88408
+    ],
+    "start.dol": [
+        131840,
+        4333056
+    ],
+    "appldr.bin": [
+        9312,
+        6808
+    ],
+    "auto_demo.fsys": [
+        522464928,
+        38304
+    ],
+    "B1_1.fsys": [
+        4554752,
+        514208
+    ],
+    "B1_2.fsys": [
+        5068960,
+        175456
+    ],
+    "B1_3.fsys": [
+        5244416,
+        175424
+    ],
+    "B1_4.fsys": [
+        5419840,
+        160
+    ],
+    "B1_5.fsys": [
+        5420000,
+        160
+    ],
+    "B1_6.fsys": [
+        5420160,
+        20096
+    ],
+    "B1_7.fsys": [
+        5440256,
+        160
+    ],
+    "battle_disk.fsys": [
+        522503232,
+        386720
+    ],
+    "battle_disk_doc.fsys": [
+        522889952,
+        99264
+    ],
+    "battle_disk_doc_fr.fsys": [
+        522989216,
+        96
+    ],
+    "battle_disk_doc_ge.fsys": [
+        523088480,
+        96
+    ],
+    "battle_disk_doc_it.fsys": [
+        523187744,
+        96
+    ],
+    "battle_disk_doc_sp.fsys": [
+        523287008,
+        96
+    ],
+    "battle_disk_fr.fsys": [
+        523386272,
+        96
+    ],
+    "battle_disk_ge.fsys": [
+        523776832,
+        96
+    ],
+    "battle_disk_it.fsys": [
+        524170368,
+        96
+    ],
+    "battle_disk_sp.fsys": [
+        524561792,
+        96
+    ],
+    "battle_select_menu.fsys": [
+        524958432,
+        295328
+    ],
+    "bg0thumbcode.bin": [
+        372135224,
+        42650
+    ],
+    "bg1thumbcode.bin": [
+        372177876,
+        43084
+    ],
+    "bg2thumbcode.bin": [
+        372220960,
+        46399
+    ],
+    "bgm_archive.fsys": [
+        525253760,
+        1056
+    ],
+    "bingo_menu.fsys": [
+        525254816,
+        366272
+    ],
+    "bingo_menu_fr.fsys": [
+        525621088,
+        96
+    ],
+    "bingo_menu_ge.fsys": [
+        525986848,
+        96
+    ],
+    "bingo_menu_it.fsys": [
+        526353376,
+        96
+    ],
+    "bingo_menu_sp.fsys": [
+        526718624,
+        96
+    ],
+    "bingo_sheet.fsys": [
+        527085696,
+        332544
+    ],
+    "bingo_sheet_fr.fsys": [
+        527418240,
+        96
+    ],
+    "bingo_sheet_ge.fsys": [
+        527750272,
+        96
+    ],
+    "bingo_sheet_it.fsys": [
+        528083072,
+        96
+    ],
+    "bingo_sheet_sp.fsys": [
+        528414592,
+        96
+    ],
+    "camera_shake_data.fsys": [
+        528747936,
+        4992
+    ],
+    "carde_menu.fsys": [
+        528752928,
+        834848
+    ],
+    "chara_big.fsys": [
+        529587776,
+        720640
+    ],
+    "chara_small.fsys": [
+        530308416,
+        69312
+    ],
+    "colosseumbattleconnection_menu.fsys": [
+        530377728,
+        45184
+    ],
+    "colosseumbattle_menu.fsys": [
+        530422912,
+        33248
+    ],
+    "common.fsys": [
+        530456160,
+        402752
+    ],
+    "common_dvdeth.fsys": [
+        530858912,
+        364384
+    ],
+    "coupon.bin": [
+        372267360,
+        59964
+    ],
+    "D1_garage_1F.fsys": [
+        604023424,
+        254400
+    ],
+    "D1_garage_B1.fsys": [
+        604277824,
+        247744
+    ],
+    "D1_garage_B1_bf.fsys": [
+        604525568,
+        259072
+    ],
+    "D1_garage_B2_1.fsys": [
+        604784640,
+        275328
+    ],
+    "D1_garage_B2_2.fsys": [
+        605059968,
+        494528
+    ],
+    "D1_garage_B2_2_ev_1.fsys": [
+        605554496,
+        430112
+    ],
+    "D1_garage_B2_2_ev_2.fsys": [
+        605984608,
+        433184
+    ],
+    "D1_labo_1F.fsys": [
+        606417792,
+        593344
+    ],
+    "D1_labo_B1.fsys": [
+        607011136,
+        1288288
+    ],
+    "D1_labo_B1_bf.fsys": [
+        608299424,
+        270464
+    ],
+    "D1_labo_B2.fsys": [
+        608569888,
+        651552
+    ],
+    "D1_labo_B3.fsys": [
+        609221440,
+        812608
+    ],
+    "D1_out.fsys": [
+        610034048,
+        1520736
+    ],
+    "D1_out_bf.fsys": [
+        611554784,
+        889920
+    ],
+    "D2_cloud_1.fsys": [
+        612444704,
+        881184
+    ],
+    "D2_cloud_1_bf.fsys": [
+        613325888,
+        894848
+    ],
+    "D2_cloud_2.fsys": [
+        614220736,
+        878976
+    ],
+    "D2_cloud_3.fsys": [
+        615099712,
+        878880
+    ],
+    "D2_cloud_4.fsys": [
+        615978592,
+        828448
+    ],
+    "D2_crater_colo.fsys": [
+        616807040,
+        800384
+    ],
+    "D2_crater_colo_bf.fsys": [
+        617607424,
+        761920
+    ],
+    "D2_magma_1.fsys": [
+        618369344,
+        1328224
+    ],
+    "D2_magma_1_bf.fsys": [
+        619697568,
+        929760
+    ],
+    "D2_magma_2.fsys": [
+        620627328,
+        1329344
+    ],
+    "D2_magma_3.fsys": [
+        621956672,
+        1319744
+    ],
+    "D2_out.fsys": [
+        623276416,
+        899488
+    ],
+    "D2_out_bf.fsys": [
+        624175904,
+        720288
+    ],
+    "D2_pc_1F.fsys": [
+        624896192,
+        780640
+    ],
+    "D2_pc_1F_bf.fsys": [
+        625676832,
+        293696
+    ],
+    "D2_present_room.fsys": [
+        625970528,
+        112448
+    ],
+    "D2_rest_1.fsys": [
+        626082976,
+        380960
+    ],
+    "D2_rest_2.fsys": [
+        626463936,
+        381824
+    ],
+    "D2_rest_3.fsys": [
+        626845760,
+        382016
+    ],
+    "D2_rest_4.fsys": [
+        627227776,
+        381824
+    ],
+    "D2_rest_5.fsys": [
+        627609600,
+        381856
+    ],
+    "D2_rest_6.fsys": [
+        627991456,
+        381856
+    ],
+    "D2_rest_7.fsys": [
+        628373312,
+        381856
+    ],
+    "D2_rest_8.fsys": [
+        628755168,
+        381856
+    ],
+    "D2_rest_9.fsys": [
+        629137024,
+        381856
+    ],
+    "D2_valley_1.fsys": [
+        629518880,
+        937888
+    ],
+    "D2_valley_1_bf.fsys": [
+        630456768,
+        693696
+    ],
+    "D2_valley_2.fsys": [
+        631150464,
+        703776
+    ],
+    "D2_valley_3.fsys": [
+        631854240,
+        685312
+    ],
+    "D3_out.fsys": [
+        632539552,
+        1511712
+    ],
+    "D3_ship_B1_1.fsys": [
+        634051264,
+        495712
+    ],
+    "D3_ship_B1_2.fsys": [
+        634546976,
+        665056
+    ],
+    "D3_ship_B1_3.fsys": [
+        635212032,
+        647680
+    ],
+    "D3_ship_B2_1.fsys": [
+        635859712,
+        872608
+    ],
+    "D3_ship_B2_2.fsys": [
+        636732320,
+        701056
+    ],
+    "D3_ship_B2_3.fsys": [
+        637433376,
+        689312
+    ],
+    "D3_ship_bridge.fsys": [
+        638122688,
+        991872
+    ],
+    "D3_ship_cabine.fsys": [
+        639114560,
+        933952
+    ],
+    "D3_ship_deck.fsys": [
+        640048512,
+        1639040
+    ],
+    "D3_ship_deck_bf.fsys": [
+        641687552,
+        889984
+    ],
+    "D4_bingo_bf.fsys": [
+        642577536,
+        258688
+    ],
+    "D4_casino_colo.fsys": [
+        642836224,
+        934176
+    ],
+    "D4_casino_colo_bf.fsys": [
+        643770400,
+        585856
+    ],
+    "D4_dome_1.fsys": [
+        644356256,
+        603872
+    ],
+    "D4_dome_2.fsys": [
+        644960128,
+        502112
+    ],
+    "D4_dome_2_bf.fsys": [
+        645462240,
+        259488
+    ],
+    "D4_dome_3.fsys": [
+        645721728,
+        637632
+    ],
+    "D4_dome_4.fsys": [
+        646359360,
+        820544
+    ],
+    "D4_out.fsys": [
+        647179904,
+        1133248
+    ],
+    "D4_out_2.fsys": [
+        648313152,
+        1319456
+    ],
+    "D4_tower_1F_1.fsys": [
+        649632608,
+        1262432
+    ],
+    "D4_tower_1F_1_bf.fsys": [
+        650895040,
+        883200
+    ],
+    "D4_tower_1F_2.fsys": [
+        651778240,
+        849184
+    ],
+    "D4_tower_1F_2_bf.fsys": [
+        652627424,
+        241152
+    ],
+    "D4_tower_1F_3.fsys": [
+        652868576,
+        1054688
+    ],
+    "D4_tower_1F_3_bf.fsys": [
+        653923264,
+        328800
+    ],
+    "D4_tower_2F_2_bf.fsys": [
+        654252064,
+        576
+    ],
+    "D4_tower_2F_bf.fsys": [
+        654252640,
+        576
+    ],
+    "D5_factory_1F.fsys": [
+        654253216,
+        1358080
+    ],
+    "D5_factory_1F_bf.fsys": [
+        655611296,
+        790272
+    ],
+    "D5_factory_2F.fsys": [
+        656401568,
+        1210048
+    ],
+    "D5_factory_3F.fsys": [
+        657611616,
+        1087840
+    ],
+    "D5_factory_4F.fsys": [
+        658699456,
+        1037632
+    ],
+    "D5_factory_B1.fsys": [
+        659737088,
+        1015968
+    ],
+    "D5_factory_hat.fsys": [
+        660753056,
+        999904
+    ],
+    "D5_factory_hat_bf.fsys": [
+        661752960,
+        898912
+    ],
+    "D5_factory_top.fsys": [
+        662651872,
+        1027936
+    ],
+    "D5_factory_top_bf.fsys": [
+        663679808,
+        909568
+    ],
+    "D5_out.fsys": [
+        664589376,
+        2252960
+    ],
+    "D5_out_bf.fsys": [
+        666842336,
+        908480
+    ],
+    "D6_cruiser.fsys": [
+        667750816,
+        169248
+    ],
+    "D6_dome_1F.fsys": [
+        667920064,
+        1593920
+    ],
+    "D6_dome_2F.fsys": [
+        669513984,
+        1470048
+    ],
+    "D6_dome_2F_bf.fsys": [
+        670984032,
+        792544
+    ],
+    "D6_dome_B1.fsys": [
+        671776576,
+        785056
+    ],
+    "D6_dome_B1_bf.fsys": [
+        672561632,
+        847424
+    ],
+    "D6_fort_1F.fsys": [
+        673409056,
+        1431424
+    ],
+    "D6_fort_1F_bf.fsys": [
+        674840480,
+        617440
+    ],
+    "D6_fort_2F_1.fsys": [
+        675457920,
+        1247008
+    ],
+    "D6_fort_2F_2.fsys": [
+        676704928,
+        1304512
+    ],
+    "D6_fort_2F_3.fsys": [
+        678009440,
+        653792
+    ],
+    "D6_fort_3F_1.fsys": [
+        678663232,
+        904288
+    ],
+    "D6_fort_3F_2.fsys": [
+        679567520,
+        1007392
+    ],
+    "D6_fort_4F.fsys": [
+        680574912,
+        1135488
+    ],
+    "D6_fort_5F.fsys": [
+        681710400,
+        795456
+    ],
+    "D6_fort_6F.fsys": [
+        682505856,
+        680544
+    ],
+    "D6_fort_B1.fsys": [
+        683186400,
+        939264
+    ],
+    "D6_out_all.fsys": [
+        684125664,
+        2079680
+    ],
+    "D6_out_dome.fsys": [
+        686205344,
+        967520
+    ],
+    "D6_out_dome_bf.fsys": [
+        687172864,
+        1075712
+    ],
+    "D6_out_foot.fsys": [
+        688248576,
+        1397760
+    ],
+    "D6_out_foot_bf.fsys": [
+        689646336,
+        774240
+    ],
+    "D7_out.fsys": [
+        690420576,
+        1007200
+    ],
+    "D7_out_bf.fsys": [
+        691427776,
+        983776
+    ],
+    "debug_menu.fsys": [
+        531223296,
+        96
+    ],
+    "deck_archive.fsys": [
+        531229248,
+        86048
+    ],
+    "DNA_key.fsys": [
+        531315296,
+        96
+    ],
+    "eevee_menu.fsys": [
+        531645920,
+        26304
+    ],
+    "ending_event.fsys": [
+        411524128,
+        37952
+    ],
+    "ending_Scene01.fsys": [
+        411562080,
+        1295872
+    ],
+    "ending_Scene02.fsys": [
+        412857952,
+        494624
+    ],
+    "ending_Scene03.fsys": [
+        413352576,
+        844640
+    ],
+    "ending_Scene04.fsys": [
+        414197216,
+        1153760
+    ],
+    "ending_Scene05_1.fsys": [
+        415350976,
+        1168192
+    ],
+    "ending_Scene05_2.fsys": [
+        416519168,
+        1153600
+    ],
+    "ending_Scene06_1.fsys": [
+        417672768,
+        1245664
+    ],
+    "ending_Scene06_2.fsys": [
+        418918432,
+        1245664
+    ],
+    "ending_Scene06_3.fsys": [
+        420164096,
+        1245600
+    ],
+    "ending_Scene07.fsys": [
+        421409696,
+        674656
+    ],
+    "ending_Scene08.fsys": [
+        422084352,
+        1010304
+    ],
+    "ending_Scene09.fsys": [
+        423094656,
+        1011200
+    ],
+    "ending_Scene10.fsys": [
+        424105856,
+        1010976
+    ],
+    "ending_Scene11.fsys": [
+        425116832,
+        92480
+    ],
+    "ending_Scene12_1.fsys": [
+        425209312,
+        1012320
+    ],
+    "ending_Scene12_2.fsys": [
+        426221632,
+        1010912
+    ],
+    "ending_SpecialScene01.fsys": [
+        427232544,
+        6080
+    ],
+    "ending_SpecialScene02.fsys": [
+        427238624,
+        6080
+    ],
+    "esaba_A.fsys": [
+        692411552,
+        1605888
+    ],
+    "esaba_A_bf.fsys": [
+        694017440,
+        954656
+    ],
+    "esaba_B.fsys": [
+        694972096,
+        1187328
+    ],
+    "esaba_B_bf.fsys": [
+        696159424,
+        934176
+    ],
+    "esaba_C.fsys": [
+        697093600,
+        1641632
+    ],
+    "esaba_C_bf.fsys": [
+        698735232,
+        742240
+    ],
+    "evolution.fsys": [
+        531672224,
+        75840
+    ],
+    "ex_coupon.fsys": [
+        531748064,
+        1029856
+    ],
+    "ex_shrine.fsys": [
+        532777920,
+        1236640
+    ],
+    "ex_title.fsys": [
+        534014560,
+        1595392
+    ],
+    "ex_top.fsys": [
+        535609952,
+        288128
+    ],
+    "field_common.fsys": [
+        535898080,
+        408320
+    ],
+    "field_common_fr.fsys": [
+        536306400,
+        96
+    ],
+    "field_common_ge.fsys": [
+        536715072,
+        96
+    ],
+    "field_common_it.fsys": [
+        537124544,
+        96
+    ],
+    "field_common_sp.fsys": [
+        537534432,
+        96
+    ],
+    "fight_common.fsys": [
+        537944160,
+        115296
+    ],
+    "fight_common_fr.fsys": [
+        538059456,
+        96
+    ],
+    "fight_common_ge.fsys": [
+        538157024,
+        96
+    ],
+    "fight_common_it.fsys": [
+        538255904,
+        96
+    ],
+    "fight_common_sp.fsys": [
+        538354880,
+        96
+    ],
+    "fight_demo.fsys": [
+        538453984,
+        160
+    ],
+    "flashmenu.fsys": [
+        538454144,
+        56736
+    ],
+    "genius_logo.fsys": [
+        538510880,
+        21280
+    ],
+    "GSfsys.toc": [
+        372327324,
+        84288
+    ],
+    "hologram_menu.fsys": [
+        538532160,
+        22752
+    ],
+    "hologram_menu_a.fsys": [
+        538554912,
+        103200
+    ],
+    "hologram_menu_b.fsys": [
+        538658112,
+        149952
+    ],
+    "hologram_menu_c.fsys": [
+        538808064,
+        377472
+    ],
+    "hologram_menu_d.fsys": [
+        539185536,
+        280416
+    ],
+    "keydisc.fsys": [
+        539465952,
+        96
+    ],
+    "M1_carde_1.fsys": [
+        699477472,
+        823136
+    ],
+    "M1_gym_1F.fsys": [
+        700300608,
+        798432
+    ],
+    "M1_gym_1F_bf.fsys": [
+        701099040,
+        414912
+    ],
+    "M1_gym_B1.fsys": [
+        701513952,
+        1131264
+    ],
+    "M1_houseA_1F.fsys": [
+        702645216,
+        2734464
+    ],
+    "M1_houseA_1F_bf.fsys": [
+        705379680,
+        382112
+    ],
+    "M1_houseA_2F.fsys": [
+        705761792,
+        2620704
+    ],
+    "M1_houseB_1F.fsys": [
+        708382496,
+        2627232
+    ],
+    "M1_houseC_1F.fsys": [
+        711009728,
+        2580128
+    ],
+    "M1_out.fsys": [
+        713589856,
+        1395840
+    ],
+    "M1_out_bf.fsys": [
+        714985696,
+        649088
+    ],
+    "M1_pc_1F.fsys": [
+        715634784,
+        541664
+    ],
+    "M1_pc_B1.fsys": [
+        716176448,
+        321696
+    ],
+    "M1_shop_1F.fsys": [
+        716498144,
+        400992
+    ],
+    "M1_shop_2F.fsys": [
+        716899136,
+        398112
+    ],
+    "M1_stadium_1F.fsys": [
+        717297248,
+        577824
+    ],
+    "M1_water_colo.fsys": [
+        717875072,
+        542016
+    ],
+    "M1_water_colo_bf.fsys": [
+        718417088,
+        259104
+    ],
+    "M1_water_colo_field.fsys": [
+        718676192,
+        954304
+    ],
+    "M2_building_1F.fsys": [
+        719630496,
+        1624768
+    ],
+    "M2_building_1F_bf.fsys": [
+        721255264,
+        528704
+    ],
+    "M2_building_2F.fsys": [
+        721783968,
+        1668000
+    ],
+    "M2_building_3F.fsys": [
+        723451968,
+        1845952
+    ],
+    "M2_building_4F.fsys": [
+        725297920,
+        1203936
+    ],
+    "M2_cave_1F_1.fsys": [
+        726501856,
+        96
+    ],
+    "M2_cave_1F_2.fsys": [
+        727514048,
+        96
+    ],
+    "M2_cave_2F_1.fsys": [
+        728122144,
+        96
+    ],
+    "M2_cave_2F_2.fsys": [
+        728826848,
+        96
+    ],
+    "M2_cave_3F_1.fsys": [
+        729499648,
+        96
+    ],
+    "M2_cave_3F_1_bf.fsys": [
+        730136640,
+        96
+    ],
+    "M2_cave_3F_2.fsys": [
+        730722944,
+        96
+    ],
+    "M2_earth_colo.fsys": [
+        731385216,
+        821184
+    ],
+    "M2_enter_1F.fsys": [
+        732206400,
+        700960
+    ],
+    "M2_enter_1F_2.fsys": [
+        732907360,
+        579008
+    ],
+    "M2_guild_1F_1.fsys": [
+        733486368,
+        517568
+    ],
+    "M2_guild_1F_2.fsys": [
+        734003936,
+        587264
+    ],
+    "M2_hotel_1F.fsys": [
+        734591200,
+        843008
+    ],
+    "M2_houseA_1F.fsys": [
+        735434208,
+        2792928
+    ],
+    "M2_out.fsys": [
+        738227136,
+        2155776
+    ],
+    "M2_out_bf.fsys": [
+        740382912,
+        821856
+    ],
+    "M2_police_1F.fsys": [
+        741204768,
+        766208
+    ],
+    "M2_shop_1F.fsys": [
+        741970976,
+        642848
+    ],
+    "M2_uranai_1F.fsys": [
+        742613824,
+        546176
+    ],
+    "M2_windmill_1F.fsys": [
+        743160000,
+        488128
+    ],
+    "M3_cave_1F_1.fsys": [
+        743648128,
+        731840
+    ],
+    "M3_cave_1F_1_bf.fsys": [
+        744379968,
+        341504
+    ],
+    "M3_cave_1F_2.fsys": [
+        744721472,
+        597600
+    ],
+    "M3_houseA_1F.fsys": [
+        745319072,
+        317024
+    ],
+    "M3_houseB_1F.fsys": [
+        745636096,
+        2691840
+    ],
+    "M3_houseC_1F.fsys": [
+        748327936,
+        2815456
+    ],
+    "M3_houseC_2F.fsys": [
+        751143392,
+        386976
+    ],
+    "M3_houseD_1F.fsys": [
+        751530368,
+        630112
+    ],
+    "M3_out.fsys": [
+        752160480,
+        1413408
+    ],
+    "M3_out_bf.fsys": [
+        753573888,
+        513216
+    ],
+    "M3_pc_1F.fsys": [
+        754087104,
+        718144
+    ],
+    "M3_shop_1F.fsys": [
+        754805248,
+        563808
+    ],
+    "M3_shrine_1F.fsys": [
+        755369056,
+        845376
+    ],
+    "M3_shrine_1F_bf.fsys": [
+        756214432,
+        488352
+    ],
+    "M3_shrine_1F_rl.fsys": [
+        756702784,
+        707648
+    ],
+    "M5_apart_1F.fsys": [
+        757410432,
+        1901248
+    ],
+    "M5_apart_2F.fsys": [
+        759311680,
+        1782752
+    ],
+    "M5_labo_1F.fsys": [
+        761094432,
+        1920192
+    ],
+    "M5_labo_2F.fsys": [
+        763014624,
+        2004256
+    ],
+    "M5_labo_B1.fsys": [
+        765018880,
+        486784
+    ],
+    "M5_labo_bf.fsys": [
+        765505664,
+        259072
+    ],
+    "M5_out.fsys": [
+        765764736,
+        1809888
+    ],
+    "M5_out_bf.fsys": [
+        767574624,
+        417248
+    ],
+    "M6_crab_1F.fsys": [
+        767991872,
+        1653472
+    ],
+    "M6_crab_2F.fsys": [
+        769645344,
+        1776192
+    ],
+    "M6_crab_B1.fsys": [
+        771421536,
+        443648
+    ],
+    "M6_houseA.fsys": [
+        771865184,
+        944320
+    ],
+    "M6_houseB.fsys": [
+        772809504,
+        1043872
+    ],
+    "M6_houseC.fsys": [
+        773853376,
+        808256
+    ],
+    "M6_houseD.fsys": [
+        774661632,
+        935648
+    ],
+    "M6_junk_1F.fsys": [
+        775597280,
+        1220896
+    ],
+    "M6_junk_2F.fsys": [
+        776818176,
+        714368
+    ],
+    "M6_out.fsys": [
+        777532544,
+        1485632
+    ],
+    "M6_out_bf.fsys": [
+        779018176,
+        831424
+    ],
+    "M6_pc_1F.fsys": [
+        779849600,
+        910976
+    ],
+    "M6_pc_2F.fsys": [
+        780760576,
+        708352
+    ],
+    "M6_shop_1F.fsys": [
+        781468928,
+        1197152
+    ],
+    "M6_shop_2F.fsys": [
+        782666080,
+        666592
+    ],
+    "M6_tower_1F.fsys": [
+        783332672,
+        674624
+    ],
+    "M6_tower_2F.fsys": [
+        784007296,
+        680096
+    ],
+    "M6_tower_3F.fsys": [
+        784687392,
+        865632
+    ],
+    "M6_tower_4F.fsys": [
+        785553024,
+        808192
+    ],
+    "M6_tower_top.fsys": [
+        786361216,
+        1169344
+    ],
+    "M6_tower_top_bf.fsys": [
+        787530560,
+        831424
+    ],
+    "mail000.fsys": [
+        539466304,
+        38816
+    ],
+    "mail001.fsys": [
+        539505120,
+        30944
+    ],
+    "mail002.fsys": [
+        539536064,
+        30624
+    ],
+    "mailopen_menu.fsys": [
+        539566688,
+        245728
+    ],
+    "mailopen_menu_fr.fsys": [
+        539812416,
+        96
+    ],
+    "mailopen_menu_ge.fsys": [
+        540058016,
+        96
+    ],
+    "mailopen_menu_it.fsys": [
+        540303616,
+        96
+    ],
+    "mailopen_menu_sp.fsys": [
+        540549216,
+        96
+    ],
+    "maxbtl.bin": [
+        372411612,
+        98944
+    ],
+    "maxbtl_english.bin": [
+        372510556,
+        107552
+    ],
+    "maxbtl_france.bin": [
+        372618108,
+        16
+    ],
+    "maxbtl_germany.bin": [
+        372725660,
+        16
+    ],
+    "maxbtl_italy.bin": [
+        372833148,
+        16
+    ],
+    "maxbtl_spain.bin": [
+        372940700,
+        16
+    ],
+    "maxcng.bin": [
+        373048316,
+        65184
+    ],
+    "maxcng_english.bin": [
+        373113500,
+        72832
+    ],
+    "maxcng_france.bin": [
+        373186332,
+        16
+    ],
+    "maxcng_germany.bin": [
+        373259164,
+        16
+    ],
+    "maxcng_italy.bin": [
+        373332028,
+        16
+    ],
+    "maxcng_spain.bin": [
+        373404860,
+        16
+    ],
+    "mechkyogre_movedemo.fsys": [
+        540794816,
+        2109376
+    ],
+    "menu_common.fsys": [
+        542904192,
+        160
+    ],
+    "mewwaza.fsys": [
+        542904352,
+        7360
+    ],
+    "pkx_laplace.fsys": [
+        470909632,
+        142272
+    ],
+    "pkx_latias.fsys": [
+        471051904,
+        119488
+    ],
+    "pkx_latios.fsys": [
+        471171392,
+        97888
+    ],
+    "pkx_lilyla.fsys": [
+        471269280,
+        115936
+    ],
+    "pkx_livolt.fsys": [
+        471385216,
+        330496
+    ],
+    "pkx_lizardo.fsys": [
+        471715712,
+        199168
+    ],
+    "pkx_lizardon.fsys": [
+        471914880,
+        461600
+    ],
+    "pkx_logan_0101.fsys": [
+        472376480,
+        145152
+    ],
+    "pkx_lovecus.fsys": [
+        472521632,
+        65312
+    ],
+    "pkx_lucky.fsys": [
+        472586944,
+        155424
+    ],
+    "pkx_lugia.fsys": [
+        472742368,
+        257056
+    ],
+    "pkx_lunatone.fsys": [
+        472999424,
+        98528
+    ],
+    "pkx_madatsubomi.fsys": [
+        473097952,
+        204096
+    ],
+    "pkx_magcargot.fsys": [
+        473302048,
+        174912
+    ],
+    "pkx_mage_0101.fsys": [
+        473476960,
+        196320
+    ],
+    "pkx_magmag.fsys": [
+        473673280,
+        164416
+    ],
+    "pkx_magmarashi.fsys": [
+        473837696,
+        244000
+    ],
+    "pkx_makunoshita.fsys": [
+        474081696,
+        123136
+    ],
+    "pkx_mania_a1.fsys": [
+        474204832,
+        90784
+    ],
+    "pkx_mankey.fsys": [
+        474295616,
+        184800
+    ],
+    "pkx_mantain.fsys": [
+        474480416,
+        130464
+    ],
+    "pkx_maril.fsys": [
+        474610880,
+        84704
+    ],
+    "pkx_marilli.fsys": [
+        474695584,
+        157728
+    ],
+    "pkx_marumine.fsys": [
+        474853312,
+        110240
+    ],
+    "pkx_marunoom.fsys": [
+        474963552,
+        228320
+    ],
+    "pkx_massuguma.fsys": [
+        475191872,
+        252032
+    ],
+    "pkx_matadogas.fsys": [
+        475443904,
+        157472
+    ],
+    "pkx_mayuld.fsys": [
+        475601376,
+        137440
+    ],
+    "pkx_mcgroudon_1101.fsys": [
+        475738816,
+        242208
+    ],
+    "pkx_meganium.fsys": [
+        475981024,
+        159808
+    ],
+    "pkx_menokurage.fsys": [
+        476140832,
+        86176
+    ],
+    "pkx_merriep.fsys": [
+        476227008,
+        161408
+    ],
+    "pkx_metagross.fsys": [
+        476388416,
+        206336
+    ],
+    "pkx_metamon.fsys": [
+        476594752,
+        111680
+    ],
+    "pkx_metang.fsys": [
+        476706432,
+        111552
+    ],
+    "pkx_mew.fsys": [
+        476817984,
+        189120
+    ],
+    "pkx_mewtwo.fsys": [
+        477007104,
+        282368
+    ],
+    "pkx_migawari.fsys": [
+        477289472,
+        64480
+    ],
+    "pkx_milokaross.fsys": [
+        477353952,
+        353088
+    ],
+    "pkx_miltank.fsys": [
+        477707040,
+        168608
+    ],
+    "pkx_miniryu.fsys": [
+        477875648,
+        85568
+    ],
+    "pkx_minun.fsys": [
+        477961216,
+        197088
+    ],
+    "pkx_mirrabo_0101.fsys": [
+        478158304,
+        168480
+    ],
+    "pkx_mizugorou.fsys": [
+        478326784,
+        190784
+    ],
+    "pkx_mokoko.fsys": [
+        478517568,
+        161248
+    ],
+    "pkx_monjara.fsys": [
+        478678816,
+        334464
+    ],
+    "pkx_morphon.fsys": [
+        479013280,
+        71008
+    ],
+    "pkx_muchul.fsys": [
+        479084288,
+        164128
+    ],
+    "pkx_muma.fsys": [
+        479248416,
+        215264
+    ],
+    "pkx_namakero.fsys": [
+        479463680,
+        144928
+    ],
+    "pkx_namazun.fsys": [
+        479608608,
+        92992
+    ],
+    "pkx_nassy.fsys": [
+        479701600,
+        206400
+    ],
+    "pkx_natio.fsys": [
+        479908000,
+        168960
+    ],
+    "pkx_naty.fsys": [
+        480076960,
+        76480
+    ],
+    "pkx_nazonokusa.fsys": [
+        480153440,
+        184352
+    ],
+    "pkx_nendoll.fsys": [
+        480337792,
+        126144
+    ],
+    "pkx_nidoking.fsys": [
+        480463936,
+        206784
+    ],
+    "pkx_nidoqueen.fsys": [
+        480670720,
+        270976
+    ],
+    "pkx_nidoran_f.fsys": [
+        480941696,
+        168672
+    ],
+    "pkx_nidoran_m.fsys": [
+        481110368,
+        173440
+    ],
+    "pkx_nidorina.fsys": [
+        481283808,
+        158912
+    ],
+    "pkx_nidorino.fsys": [
+        481442720,
+        133216
+    ],
+    "pkx_niku_f_0101.fsys": [
+        481575936,
+        134272
+    ],
+    "pkx_niku_f_a1.fsys": [
+        481710208,
+        99712
+    ],
+    "pkx_niku_m_0101.fsys": [
+        481809920,
+        139552
+    ],
+    "pkx_niku_m_1101.fsys": [
+        481949472,
+        125408
+    ],
+    "pkx_niku_m_a1.fsys": [
+        482074880,
+        92384
+    ],
+    "pkx_niku_m_a2.fsys": [
+        482167264,
+        94528
+    ],
+    "pkx_niku_m_a3.fsys": [
+        482261792,
+        92288
+    ],
+    "pkx_niku_m_a4.fsys": [
+        482354080,
+        95936
+    ],
+    "pkx_noctus.fsys": [
+        482450016,
+        149984
+    ],
+    "pkx_nokocchi.fsys": [
+        482600000,
+        96352
+    ],
+    "pkx_nosepass.fsys": [
+        482696352,
+        68896
+    ],
+    "pkx_nuckrar.fsys": [
+        482765248,
+        210112
+    ],
+    "pkx_nukenin.fsys": [
+        482975360,
+        42304
+    ],
+    "pkx_numacraw.fsys": [
+        483017664,
+        182784
+    ],
+    "pkx_nuoh.fsys": [
+        483200448,
+        121696
+    ],
+    "pkx_nyarth.fsys": [
+        483322144,
+        150720
+    ],
+    "pkx_nyorobon.fsys": [
+        483472864,
+        299008
+    ],
+    "pkx_nyoromo.fsys": [
+        483771872,
+        194720
+    ],
+    "pkx_nyorotono.fsys": [
+        483966592,
+        161152
+    ],
+    "pkx_nyorozo.fsys": [
+        484127744,
+        135808
+    ],
+    "pkx_nyula.fsys": [
+        484263552,
+        198720
+    ],
+    "pkx_obo_a1.fsys": [
+        484462272,
+        99904
+    ],
+    "pkx_obo_a4.fsys": [
+        484562176,
+        101024
+    ],
+    "pkx_odoshishi.fsys": [
+        484663200,
+        146912
+    ],
+    "pkx_ohsubame.fsys": [
+        484810112,
+        272992
+    ],
+    "pkx_ojisan1_0101.fsys": [
+        485083104,
+        96384
+    ],
+    "pkx_ojisan_a1.fsys": [
+        485179488,
+        90112
+    ],
+    "pkx_ojo_a1.fsys": [
+        485269600,
+        107328
+    ],
+    "pkx_ojo_a4.fsys": [
+        485376928,
+        111424
+    ],
+    "pkx_okorizaru.fsys": [
+        485488352,
+        130016
+    ],
+    "pkx_okutank.fsys": [
+        485618368,
+        137504
+    ],
+    "pkx_omnite.fsys": [
+        485755872,
+        63200
+    ],
+    "pkx_omstar.fsys": [
+        485819072,
+        222912
+    ],
+    "pkx_onidrill.fsys": [
+        486041984,
+        161440
+    ],
+    "pkx_onigohri.fsys": [
+        486203424,
+        79104
+    ],
+    "pkx_onisuzume.fsys": [
+        486282528,
+        223552
+    ],
+    "pkx_ootachi.fsys": [
+        486506080,
+        327392
+    ],
+    "pkx_ordile.fsys": [
+        486833472,
+        149184
+    ],
+    "pkx_otachi.fsys": [
+        486982656,
+        212768
+    ],
+    "pkx_paras.fsys": [
+        487195424,
+        166976
+    ],
+    "pkx_parasect.fsys": [
+        487362400,
+        109632
+    ],
+    "pkx_parshen.fsys": [
+        487472032,
+        91936
+    ],
+    "pkx_patcheel.fsys": [
+        487563968,
+        224864
+    ],
+    "pkx_pawou.fsys": [
+        487788832,
+        92320
+    ],
+    "pkx_pearlulu.fsys": [
+        487881152,
+        84960
+    ],
+    "pkx_pelipper.fsys": [
+        487966112,
+        219008
+    ],
+    "pkx_persian.fsys": [
+        488185120,
+        138912
+    ],
+    "pkx_pichu.fsys": [
+        488324032,
+        208640
+    ],
+    "pkx_pigeon.fsys": [
+        488532672,
+        227008
+    ],
+    "pkx_pigeot.fsys": [
+        488759680,
+        244256
+    ],
+    "pkx_pikachu.fsys": [
+        489003936,
+        286656
+    ],
+    "pkx_pippi.fsys": [
+        489290592,
+        157024
+    ],
+    "pkx_pixy.fsys": [
+        489447616,
+        153632
+    ],
+    "pkx_pochiena.fsys": [
+        489601248,
+        213888
+    ],
+    "pkx_ponyta.fsys": [
+        489815136,
+        316416
+    ],
+    "pkx_popocco.fsys": [
+        490131552,
+        191744
+    ],
+    "pkx_poppo.fsys": [
+        490323296,
+        193248
+    ],
+    "pkx_porygon.fsys": [
+        490516544,
+        84576
+    ],
+    "pkx_porygon2.fsys": [
+        490601120,
+        63072
+    ],
+    "pkx_powalen.fsys": [
+        490664192,
+        80128
+    ],
+    "pkx_powalen_f.fsys": [
+        490744320,
+        77664
+    ],
+    "pkx_powalen_i.fsys": [
+        490821984,
+        101632
+    ],
+    "pkx_powalen_w.fsys": [
+        490923616,
+        86400
+    ],
+    "pkx_prasle.fsys": [
+        491010016,
+        197792
+    ],
+    "pkx_ptera.fsys": [
+        491207808,
+        176192
+    ],
+    "pkx_pukurin.fsys": [
+        491384000,
+        140736
+    ],
+    "pkx_pupurin.fsys": [
+        491524736,
+        70048
+    ],
+    "pkx_purin.fsys": [
+        491594784,
+        85184
+    ],
+    "pkx_py.fsys": [
+        491679968,
+        97344
+    ],
+    "pkx_raichu.fsys": [
+        491777312,
+        245120
+    ],
+    "pkx_raikou.fsys": [
+        492022432,
+        185184
+    ],
+    "pkx_rakurai.fsys": [
+        492207616,
+        285216
+    ],
+    "pkx_ralts.fsys": [
+        492492832,
+        92320
+    ],
+    "pkx_rarecoil.fsys": [
+        492585152,
+        130176
+    ],
+    "pkx_rare_achamo.fsys": [
+        492715328,
+        212640
+    ],
+    "pkx_rare_bakphoon.fsys": [
+        492927968,
+        152800
+    ],
+    "pkx_rare_bursyamo.fsys": [
+        493080768,
+        198976
+    ],
+    "pkx_rare_cerebi.fsys": [
+        493279744,
+        142176
+    ],
+    "pkx_rare_deoxys.fsys": [
+        493421920,
+        313856
+    ],
+    "pkx_rare_entei.fsys": [
+        493735776,
+        269408
+    ],
+    "pkx_rare_fire.fsys": [
+        494005184,
+        253920
+    ],
+    "pkx_rare_freezer.fsys": [
+        494259104,
+        345728
+    ],
+    "pkx_rare_fushigibana.fsys": [
+        494604832,
+        355872
+    ],
+    "pkx_rare_groudon.fsys": [
+        494960704,
+        279488
+    ],
+    "pkx_rare_gyarados.fsys": [
+        495240192,
+        140960
+    ],
+    "pkx_rare_houou.fsys": [
+        495381152,
+        359232
+    ],
+    "pkx_rare_jirachi.fsys": [
+        495740384,
+        176704
+    ],
+    "pkx_rare_jukain.fsys": [
+        495917088,
+        226336
+    ],
+    "pkx_rare_juptile.fsys": [
+        496143424,
+        187168
+    ],
+    "pkx_rare_kamex.fsys": [
+        496330592,
+        297440
+    ],
+    "pkx_rare_kimori.fsys": [
+        496628032,
+        156448
+    ],
+    "pkx_rare_kyogre.fsys": [
+        496784480,
+        121504
+    ],
+    "pkx_rare_laglarge.fsys": [
+        496905984,
+        214720
+    ],
+    "pkx_rare_latias.fsys": [
+        497120704,
+        108960
+    ],
+    "pkx_rare_latios.fsys": [
+        497229664,
+        97824
+    ],
+    "pkx_rare_lizardon.fsys": [
+        497327488,
+        459104
+    ],
+    "pkx_rare_lugia.fsys": [
+        497786592,
+        255104
+    ],
+    "pkx_rare_meganium.fsys": [
+        498041696,
+        162048
+    ],
+    "pkx_rare_mew.fsys": [
+        498203744,
+        182336
+    ],
+    "pkx_rare_mewtwo.fsys": [
+        498386080,
+        276960
+    ],
+    "pkx_rare_mizugorou.fsys": [
+        498663040,
+        183072
+    ],
+    "pkx_rare_numacraw.fsys": [
+        498846112,
+        182752
+    ],
+    "pkx_rare_ordile.fsys": [
+        499028864,
+        158336
+    ],
+    "pkx_rare_raikou.fsys": [
+        499187200,
+        182016
+    ],
+    "pkx_rare_rayquaza.fsys": [
+        499369216,
+        328736
+    ],
+    "pkx_rare_suikun.fsys": [
+        499697952,
+        370080
+    ],
+    "pkx_rare_thunder.fsys": [
+        500068032,
+        132768
+    ],
+    "pkx_rare_wakasyamo.fsys": [
+        500200800,
+        163328
+    ],
+    "pkx_rare_yorunozuku.fsys": [
+        500364128,
+        237024
+    ],
+    "pkx_ratta.fsys": [
+        500601152,
+        133248
+    ],
+    "pkx_rayquaza.fsys": [
+        500734400,
+        329216
+    ],
+    "pkx_redian.fsys": [
+        501063616,
+        88352
+    ],
+    "pkx_rediba.fsys": [
+        501151968,
+        102560
+    ],
+    "pkx_regice.fsys": [
+        501254528,
+        74400
+    ],
+    "pkx_regirock.fsys": [
+        501328928,
+        266624
+    ],
+    "pkx_registeel.fsys": [
+        501595552,
+        142112
+    ],
+    "pkx_research2_0101.fsys": [
+        501737664,
+        124224
+    ],
+    "pkx_rider_f_a1.fsys": [
+        501861888,
+        108800
+    ],
+    "pkx_rider_m_0101.fsys": [
+        501970688,
+        146112
+    ],
+    "pkx_rider_m_a1.fsys": [
+        502116800,
+        101600
+    ],
+    "pkx_rider_m_a2.fsys": [
+        502218400,
+        98240
+    ],
+    "pkx_ringuma.fsys": [
+        502316640,
+        221024
+    ],
+    "pkx_rinto_0101.fsys": [
+        502537664,
+        173504
+    ],
+    "pkx_rinto_1101.fsys": [
+        502711168,
+        174208
+    ],
+    "pkx_rinto_1102.fsys": [
+        502885376,
+        176480
+    ],
+    "pkx_rinto_2101.fsys": [
+        503061856,
+        150848
+    ],
+    "pkx_rinto_2102.fsys": [
+        503212704,
+        134944
+    ],
+    "pkx_rokon.fsys": [
+        503347648,
+        214272
+    ],
+    "pkx_roselia.fsys": [
+        503561920,
+        198848
+    ],
+    "pkx_rougela.fsys": [
+        503760768,
+        289664
+    ],
+    "pkx_ruffresia.fsys": [
+        504050432,
+        139520
+    ],
+    "pkx_runpappa.fsys": [
+        504189952,
+        214752
+    ],
+    "pkx_ruriri.fsys": [
+        504404704,
+        128448
+    ],
+    "pkx_sabonea.fsys": [
+        504533152,
+        110592
+    ],
+    "pkx_sailor1_0101.fsys": [
+        504643744,
+        121120
+    ],
+    "pkx_sailor2_0101.fsys": [
+        504764864,
+        121664
+    ],
+    "pkx_sailor2_1101.fsys": [
+        504886528,
+        117472
+    ],
+    "pkx_sakurabyss.fsys": [
+        505004000,
+        91008
+    ],
+    "pkx_samayouru.fsys": [
+        505095008,
+        108192
+    ],
+    "pkx_samehader.fsys": [
+        505203200,
+        216736
+    ],
+    "pkx_sanagiras.fsys": [
+        505419936,
+        40480
+    ],
+    "pkx_sand.fsys": [
+        505460416,
+        154560
+    ],
+    "pkx_sandpan.fsys": [
+        505614976,
+        294848
+    ],
+    "pkx_sawamular.fsys": [
+        505909824,
+        218976
+    ],
+    "pkx_seadra.fsys": [
+        506128800,
+        77952
+    ],
+    "pkx_seigi_0101.fsys": [
+        506206752,
+        140576
+    ],
+    "pkx_sensei_a1.fsys": [
+        506347328,
+        108096
+    ],
+    "pkx_shellder.fsys": [
+        506455424,
+        67648
+    ],
+    "pkx_shizariger.fsys": [
+        506523072,
+        148896
+    ],
+    "pkx_showers.fsys": [
+        506671968,
+        263072
+    ],
+    "pkx_sidon.fsys": [
+        506935040,
+        167200
+    ],
+    "pkx_sihorn.fsys": [
+        507102240,
+        150240
+    ],
+    "pkx_sirnight.fsys": [
+        507252480,
+        188160
+    ],
+    "pkx_sityo_a1.fsys": [
+        507440640,
+        113952
+    ],
+    "pkx_sleepe.fsys": [
+        507554592,
+        145344
+    ],
+    "pkx_sleeper.fsys": [
+        507699936,
+        284800
+    ],
+    "pkx_snach_zako_a1.fsys": [
+        507984736,
+        85984
+    ],
+    "pkx_snach_zako_a2.fsys": [
+        508070720,
+        87232
+    ],
+    "pkx_snach_zako_a3.fsys": [
+        508157952,
+        78656
+    ],
+    "pkx_snatchdan_0101.fsys": [
+        508236608,
+        115392
+    ],
+    "pkx_snatchdan_1101.fsys": [
+        508352000,
+        100256
+    ],
+    "pkx_sohnano.fsys": [
+        508452256,
+        112064
+    ],
+    "pkx_solrock.fsys": [
+        508564320,
+        100480
+    ],
+    "pkx_sonans.fsys": [
+        508664800,
+        96704
+    ],
+    "pkx_spear.fsys": [
+        508761504,
+        230944
+    ],
+    "pkx_sport_f_a1.fsys": [
+        508992448,
+        101440
+    ],
+    "pkx_sport_m_a1.fsys": [
+        509093888,
+        99744
+    ],
+    "pkx_starmie.fsys": [
+        509193632,
+        115680
+    ],
+    "pkx_strike.fsys": [
+        509309312,
+        238304
+    ],
+    "pkx_subame.fsys": [
+        509547616,
+        265728
+    ],
+    "pkx_suikun.fsys": [
+        509813344,
+        365984
+    ],
+    "pkx_sunnygo.fsys": [
+        510179328,
+        45952
+    ],
+    "pkx_syotyou_a1.fsys": [
+        510225280,
+        115680
+    ],
+    "pkx_tamatama.fsys": [
+        510340960,
+        158016
+    ],
+    "pkx_tamazarashi.fsys": [
+        510498976,
+        98304
+    ],
+    "pkx_taneboh.fsys": [
+        510597280,
+        78496
+    ],
+    "pkx_tatsubay.fsys": [
+        510675776,
+        191552
+    ],
+    "pkx_tattu.fsys": [
+        510867328,
+        79552
+    ],
+    "pkx_tekkanin.fsys": [
+        510946880,
+        76704
+    ],
+    "pkx_teppouo.fsys": [
+        511023584,
+        67808
+    ],
+    "pkx_tessla_0101.fsys": [
+        511091392,
+        160992
+    ],
+    "pkx_thief_f_0101.fsys": [
+        511252384,
+        138944
+    ],
+    "pkx_thief_f_1101.fsys": [
+        511391328,
+        128896
+    ],
+    "pkx_thief_f_a1.fsys": [
+        511520224,
+        138272
+    ],
+    "pkx_thief_f_a2.fsys": [
+        511658496,
+        138720
+    ],
+    "pkx_thief_m_0101.fsys": [
+        511797216,
+        133376
+    ],
+    "pkx_thief_m_1101.fsys": [
+        511930592,
+        130560
+    ],
+    "pkx_thief_m_a1.fsys": [
+        512061152,
+        120736
+    ],
+    "pkx_thief_m_a2.fsys": [
+        512181888,
+        120000
+    ],
+    "pkx_thief_m_a3.fsys": [
+        512301888,
+        122272
+    ],
+    "pkx_thunder.fsys": [
+        512424160,
+        140032
+    ],
+    "pkx_thunders.fsys": [
+        512564192,
+        280544
+    ],
+    "pkx_todoggler.fsys": [
+        512844736,
+        107072
+    ],
+    "pkx_todoseruga.fsys": [
+        512951808,
+        210976
+    ],
+    "pkx_togechick.fsys": [
+        513162784,
+        132928
+    ],
+    "pkx_togepy.fsys": [
+        513295712,
+        83840
+    ],
+    "pkx_tosakinto.fsys": [
+        513379552,
+        118272
+    ],
+    "pkx_trainer_f_0101.fsys": [
+        513497824,
+        127840
+    ],
+    "pkx_trainer_m_0101.fsys": [
+        513625664,
+        131680
+    ],
+    "pkx_traner_f_a1.fsys": [
+        513757344,
+        92704
+    ],
+    "pkx_traner_m_a1.fsys": [
+        513850048,
+        94976
+    ],
+    "pkx_transel.fsys": [
+        513945024,
+        51488
+    ],
+    "pkx_tropius.fsys": [
+        513996512,
+        299168
+    ],
+    "pkx_tsubotsubo.fsys": [
+        514295680,
+        95552
+    ],
+    "pkx_tutinin.fsys": [
+        514391232,
+        192064
+    ],
+    "pkx_tyltalis.fsys": [
+        514583296,
+        285696
+    ],
+    "pkx_tyltto.fsys": [
+        514868992,
+        268896
+    ],
+    "pkx_unknown_a.fsys": [
+        515137888,
+        84608
+    ],
+    "pkx_unknown_b.fsys": [
+        515222496,
+        56704
+    ],
+    "pkx_unknown_c.fsys": [
+        515279200,
+        75200
+    ],
+    "pkx_unknown_d.fsys": [
+        515354400,
+        54432
+    ],
+    "pkx_unknown_e.fsys": [
+        515408832,
+        70816
+    ],
+    "pkx_unknown_ex.fsys": [
+        515479648,
+        52416
+    ],
+    "pkx_unknown_f.fsys": [
+        515532064,
+        64224
+    ],
+    "pkx_unknown_g.fsys": [
+        515596288,
+        49792
+    ],
+    "pkx_unknown_h.fsys": [
+        515646080,
+        71744
+    ],
+    "pkx_unknown_i.fsys": [
+        515717824,
+        49664
+    ],
+    "pkx_unknown_j.fsys": [
+        515767488,
+        59936
+    ],
+    "pkx_unknown_k.fsys": [
+        515827424,
+        68800
+    ],
+    "pkx_unknown_l.fsys": [
+        515896224,
+        56256
+    ],
+    "pkx_unknown_m.fsys": [
+        515952480,
+        82080
+    ],
+    "pkx_unknown_n.fsys": [
+        516034560,
+        75072
+    ],
+    "pkx_unknown_o.fsys": [
+        516109632,
+        52352
+    ],
+    "pkx_unknown_p.fsys": [
+        516161984,
+        56384
+    ],
+    "pkx_unknown_q.fsys": [
+        516218368,
+        79840
+    ],
+    "pkx_unknown_qu.fsys": [
+        516298208,
+        77120
+    ],
+    "pkx_unknown_r.fsys": [
+        516375328,
+        95232
+    ],
+    "pkx_unknown_s.fsys": [
+        516470560,
+        66432
+    ],
+    "pkx_unknown_t.fsys": [
+        516536992,
+        53632
+    ],
+    "pkx_unknown_u.fsys": [
+        516590624,
+        45632
+    ],
+    "pkx_unknown_v.fsys": [
+        516636256,
+        51712
+    ],
+    "pkx_unknown_w.fsys": [
+        516687968,
+        67296
+    ],
+    "pkx_unknown_x.fsys": [
+        516755264,
+        77664
+    ],
+    "pkx_unknown_y.fsys": [
+        516832928,
+        61408
+    ],
+    "pkx_unknown_z.fsys": [
+        516894336,
+        56032
+    ],
+    "pkx_upah.fsys": [
+        516950368,
+        145984
+    ],
+    "pkx_urimoo.fsys": [
+        517096352,
+        117760
+    ],
+    "pkx_usohachi.fsys": [
+        517214112,
+        119584
+    ],
+    "pkx_usokkie.fsys": [
+        517333696,
+        131424
+    ],
+    "pkx_utsubot.fsys": [
+        517465120,
+        140256
+    ],
+    "pkx_utsudon.fsys": [
+        517605376,
+        117088
+    ],
+    "pkx_vibrava.fsys": [
+        517722464,
+        288800
+    ],
+    "pkx_wakasyamo.fsys": [
+        518011264,
+        161568
+    ],
+    "pkx_waninoko.fsys": [
+        518172832,
+        152032
+    ],
+    "pkx_wanriky.fsys": [
+        518324864,
+        240352
+    ],
+    "pkx_warugaki_a1.fsys": [
+        518565216,
+        97856
+    ],
+    "pkx_watacco.fsys": [
+        518663072,
+        125568
+    ],
+    "pkx_wazzle_0101.fsys": [
+        518788640,
+        183456
+    ],
+    "pkx_whaloh.fsys": [
+        518972096,
+        142688
+    ],
+    "pkx_willy_0101.fsys": [
+        519114784,
+        145984
+    ],
+    "pkx_windie.fsys": [
+        519260768,
+        271488
+    ],
+    "pkx_worker_0101.fsys": [
+        519532256,
+        117632
+    ],
+    "pkx_worker_m_a1.fsys": [
+        519649888,
+        88672
+    ],
+    "pkx_yadoking.fsys": [
+        519738560,
+        170112
+    ],
+    "pkx_yadon.fsys": [
+        519908672,
+        122400
+    ],
+    "pkx_yadoran.fsys": [
+        520031072,
+        150208
+    ],
+    "pkx_yajilon.fsys": [
+        520181280,
+        67616
+    ],
+    "pkx_yamikarasu.fsys": [
+        520248896,
+        195104
+    ],
+    "pkx_yamirami.fsys": [
+        520444000,
+        97280
+    ],
+    "pkx_yanyanma.fsys": [
+        520541280,
+        108480
+    ],
+    "pkx_yarukimono.fsys": [
+        520649760,
+        183744
+    ],
+    "pkx_yogiras.fsys": [
+        520833504,
+        106112
+    ],
+    "pkx_yomawaru.fsys": [
+        520939616,
+        119872
+    ],
+    "pkx_yorunozuku.fsys": [
+        521059488,
+        255904
+    ],
+    "pkx_yukiwarashi.fsys": [
+        521315392,
+        137216
+    ],
+    "pkx_yungerer.fsys": [
+        521452608,
+        208096
+    ],
+    "pkx_yuradle.fsys": [
+        521660704,
+        102784
+    ],
+    "pkx_zangoose.fsys": [
+        521763488,
+        249056
+    ],
+    "pkx_zenigame.fsys": [
+        522012544,
+        161120
+    ],
+    "pkx_ziguzaguma.fsys": [
+        522173664,
+        229024
+    ],
+    "pkx_zubat.fsys": [
+        522402688,
+        62240
+    ],
+    "pocket_menu.fsys": [
+        579916224,
+        243072
+    ],
+    "pokecoupon_menu.fsys": [
+        580159296,
+        116448
+    ],
+    "pokemonchange_menu.fsys": [
+        580275744,
+        975872
+    ],
+    "pokemon_logo.fsys": [
+        581251616,
+        38304
+    ],
+    "poke_body.fsys": [
+        581289920,
+        2544512
+    ],
+    "poke_dance.fsys": [
+        583834432,
+        5117440
+    ],
+    "poke_face.fsys": [
+        588951872,
+        1766912
+    ],
+    "prog_memcard.fsys": [
+        590718784,
+        160
+    ],
+    "relivehall_menu.fsys": [
+        590718944,
+        121760
+    ],
+    "S1_out.fsys": [
+        788361984,
+        1013504
+    ],
+    "S1_out_bf.fsys": [
+        789375488,
+        775264
+    ],
+    "S1_shop_1F.fsys": [
+        790150752,
+        3065824
+    ],
+    "S2_bossroom_1.fsys": [
+        793216576,
+        610912
+    ],
+    "S2_building_1F_2.fsys": [
+        793827488,
+        949600
+    ],
+    "S2_building_1F_2_bf.fsys": [
+        794777088,
+        629088
+    ],
+    "S2_building_2F_2.fsys": [
+        795406176,
+        1012768
+    ],
+    "S2_building_3F_2.fsys": [
+        796418944,
+        769600
+    ],
+    "S2_hallway_1.fsys": [
+        797188544,
+        623136
+    ],
+    "S2_out_1.fsys": [
+        797811680,
+        1492960
+    ],
+    "S2_out_2.fsys": [
+        799304640,
+        712832
+    ],
+    "S2_out_3.fsys": [
+        800017472,
+        1610880
+    ],
+    "S2_snatchroom_1.fsys": [
+        801628352,
+        669152
+    ],
+    "S3_labo_1F.fsys": [
+        802297504,
+        1541312
+    ],
+    "S3_labo_1F_EH.fsys": [
+        803838816,
+        327008
+    ],
+    "S3_labo_B1low.fsys": [
+        804165824,
+        1393856
+    ],
+    "S3_labo_B1up.fsys": [
+        805559680,
+        1136000
+    ],
+    "S3_out.fsys": [
+        806695680,
+        2303904
+    ],
+    "S3_out_bf.fsys": [
+        808999584,
+        958560
+    ],
+    "save_menu.fsys": [
+        590840704,
+        160
+    ],
+    "Script_test.fsys": [
+        590840864,
+        96
+    ],
+    "sound/snd_music_atmos.samp": [
+        373484704,
+        56928
+    ],
+    "sound/snd_se.samp": [
+        373541632,
+        4023712
+    ],
+    "sound/snd_se_battle.samp": [
+        377565344,
+        1648256
+    ],
+    "wzx_nenriki_tamatama.fsys": [
+        871804800,
+        66560
+    ],
+    "wzx_neoharu_sp1.fsys": [
+        871871360,
+        4640
+    ],
+    "wzx_neoharu_special.fsys": [
+        871876000,
+        4640
+    ],
+    "wzx_neoharu_status.fsys": [
+        871880640,
+        4512
+    ],
+    "wzx_neppuu_attack.fsys": [
+        871885152,
+        239744
+    ],
+    "wzx_neppuu_damage.fsys": [
+        872124896,
+        162528
+    ],
+    "wzx_neppuu_windie.fsys": [
+        872287424,
+        239744
+    ],
+    "wzx_nestball_downin.fsys": [
+        872527168,
+        266336
+    ],
+    "wzx_nestball_in.fsys": [
+        872793504,
+        267648
+    ],
+    "wzx_nestball_open.fsys": [
+        873061152,
+        91296
+    ],
+    "wzx_nestball_out.fsys": [
+        873152448,
+        186432
+    ],
+    "wzx_netball_downin.fsys": [
+        873338880,
+        275616
+    ],
+    "wzx_netball_in.fsys": [
+        873614496,
+        276928
+    ],
+    "wzx_netball_open.fsys": [
+        873891424,
+        96128
+    ],
+    "wzx_netball_out.fsys": [
+        873987552,
+        195680
+    ],
+    "wzx_nidogeri_attack.fsys": [
+        874183232,
+        416
+    ],
+    "wzx_nidogeri_damage.fsys": [
+        874183648,
+        38048
+    ],
+    "wzx_nighthead_attack.fsys": [
+        874221696,
+        149088
+    ],
+    "wzx_nighthead_damage.fsys": [
+        874370784,
+        164544
+    ],
+    "wzx_nihonbare_attack.fsys": [
+        874535328,
+        198848
+    ],
+    "wzx_nihonbare_kabigon.fsys": [
+        874734176,
+        198848
+    ],
+    "wzx_nihonbare_powalen_f.fsys": [
+        874933024,
+        198848
+    ],
+    "wzx_niramitukeru_attack.fsys": [
+        875131872,
+        87264
+    ],
+    "wzx_noeffect_all.fsys": [
+        875219136,
+        1824
+    ],
+    "wzx_noeffect_attack.fsys": [
+        875220960,
+        384
+    ],
+    "wzx_noeffect_damage.fsys": [
+        875221344,
+        384
+    ],
+    "wzx_noeffect_kime.fsys": [
+        875221728,
+        384
+    ],
+    "wzx_nomikomu_sp1.fsys": [
+        875222112,
+        8512
+    ],
+    "wzx_nomikomu_sp2.fsys": [
+        875230624,
+        8448
+    ],
+    "wzx_nomikomu_special.fsys": [
+        875239072,
+        8512
+    ],
+    "wzx_nomikomu_special2.fsys": [
+        875247584,
+        8480
+    ],
+    "wzx_noroi_attack.fsys": [
+        875256064,
+        139168
+    ],
+    "wzx_noroi_damage.fsys": [
+        875395232,
+        28160
+    ],
+    "wzx_noroi_sp1.fsys": [
+        875423392,
+        148736
+    ],
+    "wzx_noroi_status.fsys": [
+        875572128,
+        123136
+    ],
+    "wzx_noshikakari_attack.fsys": [
+        875695264,
+        416
+    ],
+    "wzx_noshikakari_bangiras.fsys": [
+        875695680,
+        416
+    ],
+    "wzx_noshikakari_damage.fsys": [
+        875696096,
+        25056
+    ],
+    "wzx_noshikakari_nyoromo.fsys": [
+        875721152,
+        416
+    ],
+    "wzx_noshikakari_sidon.fsys": [
+        875721568,
+        416
+    ],
+    "wzx_odateru_attack.fsys": [
+        875721984,
+        15456
+    ],
+    "wzx_odateru_damage.fsys": [
+        875737440,
+        21984
+    ],
+    "wzx_odorokasu_attack.fsys": [
+        875759424,
+        480
+    ],
+    "wzx_odorokasu_damage.fsys": [
+        875759904,
+        62912
+    ],
+    "wzx_oiuti_attack.fsys": [
+        875822816,
+        53632
+    ],
+    "wzx_oiuti_damage.fsys": [
+        875876448,
+        99776
+    ],
+    "wzx_oiuti_damage2.fsys": [
+        875976224,
+        53696
+    ],
+    "wzx_oiuti_onidrill.fsys": [
+        876029920,
+        53632
+    ],
+    "wzx_oiuti_samayouru.fsys": [
+        876083552,
+        53664
+    ],
+    "wzx_oiuti_sp1.fsys": [
+        876137216,
+        53664
+    ],
+    "wzx_okimiyage_attack.fsys": [
+        876190880,
+        83328
+    ],
+    "wzx_okutanhou_attack.fsys": [
+        876274208,
+        154400
+    ],
+    "wzx_okutanhou_damage.fsys": [
+        876428608,
+        154368
+    ],
+    "wzx_ongaeshi_attack.fsys": [
+        876582976,
+        480
+    ],
+    "wzx_ongaeshi_damage.fsys": [
+        876583456,
+        83040
+    ],
+    "wzx_ongaeshi_damage2.fsys": [
+        876666496,
+        83040
+    ],
+    "wzx_ongaeshi_damage3.fsys": [
+        876749536,
+        83040
+    ],
+    "wzx_ongaeshi_damage4.fsys": [
+        876832576,
+        83040
+    ],
+    "wzx_onibi_attack.fsys": [
+        876915616,
+        176320
+    ],
+    "wzx_onibi_damage.fsys": [
+        877091936,
+        184832
+    ],
+    "wzx_onnen_attack.fsys": [
+        877276768,
+        151616
+    ],
+    "wzx_onnen_sp1.fsys": [
+        877428384,
+        151616
+    ],
+    "wzx_oufuku_attack.fsys": [
+        877580000,
+        416
+    ],
+    "wzx_oufuku_damage.fsys": [
+        877580416,
+        19520
+    ],
+    "wzx_oumugaesi_attack.fsys": [
+        877599936,
+        161376
+    ],
+    "wzx_oumugaesi_damage.fsys": [
+        877761312,
+        352
+    ],
+    "wzx_ourorabeam_attack.fsys": [
+        877761664,
+        179616
+    ],
+    "wzx_ourorabeam_damage.fsys": [
+        877941280,
+        28768
+    ],
+    "wzx_overheat_attack.fsys": [
+        877970048,
+        188928
+    ],
+    "wzx_overheat_damage.fsys": [
+        878158976,
+        178112
+    ],
+    "wzx_piyopiyo_attack.fsys": [
+        878337088,
+        147264
+    ],
+    "wzx_piyopiyo_damage.fsys": [
+        878484352,
+        147200
+    ],
+    "wzx_poisontail_attack.fsys": [
+        878631552,
+        14144
+    ],
+    "wzx_poisontail_damage.fsys": [
+        878645696,
+        58528
+    ],
+    "wzx_powa_change_f.fsys": [
+        878704224,
+        110784
+    ],
+    "wzx_powa_change_i.fsys": [
+        878815008,
+        110784
+    ],
+    "wzx_powa_change_n.fsys": [
+        878925792,
+        110784
+    ],
+    "wzx_powa_change_start.fsys": [
+        879036576,
+        110752
+    ],
+    "wzx_powa_change_w.fsys": [
+        879147328,
+        110784
+    ],
+    "wzx_present_00.fsys": [
+        879258112,
+        352
+    ],
+    "wzx_present_01.fsys": [
+        879258464,
+        384
+    ],
+    "wzx_present_attack.fsys": [
+        879258848,
+        45056
+    ],
+    "wzx_present_damage.fsys": [
+        879303904,
+        44832
+    ],
+    "wzx_present_damage2.fsys": [
+        879348736,
+        44864
+    ],
+    "wzx_present_purin.fsys": [
+        879393600,
+        45088
+    ],
+    "wzx_present_sp1.fsys": [
+        879438688,
+        45088
+    ],
+    "wzx_psyche_attack.fsys": [
+        879483776,
+        84000
+    ],
+    "wzx_psyche_damage.fsys": [
+        879567776,
+        73952
+    ],
+    "wzx_psychoboost_attack.fsys": [
+        879641728,
+        69824
+    ],
+    "wzx_psychoboost_damage.fsys": [
+        879711552,
+        168864
+    ],
+    "wzx_psychowave_attack.fsys": [
+        879880416,
+        15104
+    ],
+    "wzx_psychowave_damage.fsys": [
+        879895520,
+        78688
+    ],
+    "wzx_psycho_attack.fsys": [
+        879974208,
+        66560
+    ],
+    "wzx_psycho_damage.fsys": [
+        880040768,
+        51296
+    ],
+    "wzx_psycho_sp1.fsys": [
+        880092064,
+        66560
+    ],
+    "wzx_puremiyaball_downin.fsys": [
+        880158624,
+        266368
+    ],
+    "wzx_puremiyaball_in.fsys": [
+        880424992,
+        267680
+    ],
+    "wzx_puremiyaball_open.fsys": [
+        880692672,
+        87584
+    ],
+    "wzx_puremiyaball_out.fsys": [
+        880780256,
+        186432
+    ],
+    "wzx_purpleup_status.fsys": [
+        880966688,
+        1728
+    ],
+    "wzx_rarepoke.fsys": [
+        880968416,
+        17184
+    ],
+    "wzx_recycle_special.fsys": [
+        880985600,
+        8352
+    ],
+    "wzx_reddown_status.fsys": [
+        880993952,
+        1472
+    ],
+    "wzx_redup_status.fsys": [
+        880995424,
+        1728
+    ],
+    "wzx_reflector_special.fsys": [
+        880997152,
+        133696
+    ],
+    "wzx_refresh_special.fsys": [
+        881130848,
+        222880
+    ],
+    "wzx_reitoubeam_attack.fsys": [
+        881353728,
+        162944
+    ],
+    "wzx_reitoubeam_damage.fsys": [
+        881516672,
+        50368
+    ],
+    "wzx_reitoubeam_damage_sp1.fsys": [
+        881567040,
+        50368
+    ],
+    "wzx_reitoubeam_kentauros.fsys": [
+        881617408,
+        162944
+    ],
+    "wzx_reitoupanchi_attack.fsys": [
+        881780352,
+        13664
+    ],
+    "wzx_reitoupanchi_damage.fsys": [
+        881794016,
+        13504
+    ],
+    "wzx_relive_01.fsys": [
+        881807520,
+        2752
+    ],
+    "wzx_relive_02.fsys": [
+        881810272,
+        11072
+    ],
+    "wzx_relive_03.fsys": [
+        881821344,
+        14080
+    ],
+    "wzx_relive_celebi_appear.fsys": [
+        881835424,
+        213312
+    ],
+    "wzx_relive_celebi_trail.fsys": [
+        882048736,
+        212992
+    ],
+    "wzx_relive_main.fsys": [
+        882261728,
+        185376
+    ],
+    "wzx_relive_main_pigeon.fsys": [
+        882447104,
+        185376
+    ],
+    "wzx_renzokugiri_attack.fsys": [
+        882632480,
+        9248
+    ],
+    "wzx_renzokugiri_attack2.fsys": [
+        882641728,
+        9216
+    ],
+    "wzx_renzokugiri_attack3.fsys": [
+        882650944,
+        9216
+    ],
+    "wzx_renzokugiri_attack4.fsys": [
+        882660160,
+        9216
+    ],
+    "wzx_renzokugiri_attack5.fsys": [
+        882669376,
+        9216
+    ],
+    "wzx_renzokugiri_damage.fsys": [
+        882678592,
+        9216
+    ],
+    "wzx_renzokugiri_damage2.fsys": [
+        882687808,
+        9216
+    ],
+    "wzx_renzokugiri_damage3.fsys": [
+        882697024,
+        9216
+    ],
+    "wzx_renzokugiri_damage4.fsys": [
+        882706240,
+        9216
+    ],
+    "wzx_renzokugiri_damage5.fsys": [
+        882715456,
+        9216
+    ],
+    "wzx_renzokugiri_SP.fsys": [
+        882724672,
+        9216
+    ],
+    "wzx_renzokugiri_SP2.fsys": [
+        882733888,
+        9248
+    ],
+    "wzx_renzokugiri_SP3.fsys": [
+        882743136,
+        9216
+    ],
+    "wzx_renzokugiri_SP4.fsys": [
+        882752352,
+        9248
+    ],
+    "wzx_renzokugiri_strike.fsys": [
+        882761600,
+        9216
+    ],
+    "wzx_renzokugiri_strike2.fsys": [
+        882770816,
+        9216
+    ],
+    "wzx_renzokugiri_strike3.fsys": [
+        882780032,
+        9248
+    ],
+    "wzx_renzokugiri_strike4.fsys": [
+        882789280,
+        9216
+    ],
+    "wzx_renzokugiri_strike5.fsys": [
+        882798496,
+        9216
+    ],
+    "wzx_renzoku_attack.fsys": [
+        882807712,
+        416
+    ],
+    "wzx_renzoku_damage.fsys": [
+        882808128,
+        23552
+    ],
+    "wzx_repeatball_downin.fsys": [
+        882831680,
+        266336
+    ],
+    "wzx_repeatball_in.fsys": [
+        883098016,
+        267648
+    ],
+    "wzx_repeatball_open.fsys": [
+        883365664,
+        89952
+    ],
+    "wzx_repeatball_out.fsys": [
+        883455616,
+        186432
+    ],
+    "wzx_revenge_attack.fsys": [
+        883642048,
+        6944
+    ],
+    "wzx_revenge_damage.fsys": [
+        883648992,
+        155200
+    ],
+    "wzx_revenge_kairiky.fsys": [
+        883804192,
+        7008
+    ],
+    "wzx_rockblast_attack.fsys": [
+        883811200,
+        111360
+    ],
+    "wzx_rockblast_damage.fsys": [
+        883922560,
+        111328
+    ],
+    "wzx_rockblast_golone.fsys": [
+        884033888,
+        111392
+    ],
+    "wzx_rocket_attack.fsys": [
+        884145280,
+        448
+    ],
+    "wzx_rocket_damage.fsys": [
+        884145728,
+        42400
+    ],
+    "wzx_rocket_special.fsys": [
+        884188128,
+        91840
+    ],
+    "wzx_rocket_special_sp1.fsys": [
+        884279968,
+        91808
+    ],
+    "wzx_ryunoibuki_attack.fsys": [
+        884371776,
+        45952
+    ],
+    "wzx_ryunoibuki_damage.fsys": [
+        884417728,
+        67136
+    ],
+    "wzx_ryunoibuki_kairyu.fsys": [
+        884484864,
+        46528
+    ],
+    "wzx_ryunoikari_attack.fsys": [
+        884531392,
+        125312
+    ],
+    "wzx_ryunoikari_damage.fsys": [
+        884656704,
+        39456
+    ],
+    "wzx_ryunoikari_sp1.fsys": [
+        884696160,
+        125312
+    ],
+    "wzx_ryunomai_gyarados.fsys": [
+        884821472,
+        58240
+    ],
+    "wzx_ryunomai_special.fsys": [
+        884879712,
+        58272
+    ],
+    "wzx_S3_event_hibana_01.fsys": [
+        884937984,
+        45280
+    ],
+    "wzx_S3_event_hibana_02.fsys": [
+        884983264,
+        45312
+    ],
+    "wzx_S3_out_thunder_01.fsys": [
+        885028576,
+        16352
+    ],
+    "wzx_safariball_downin.fsys": [
+        885044928,
+        265952
+    ],
+    "wzx_safariball_in.fsys": [
+        885310880,
+        267232
+    ],
+    "wzx_safariball_open.fsys": [
+        885578112,
+        91168
+    ],
+    "wzx_safariball_out.fsys": [
+        885669280,
+        185984
+    ],
+    "wzx_saimin_attack.fsys": [
+        885855264,
+        68416
+    ],
+    "wzx_saimin_damage.fsys": [
+        885923680,
+        48640
+    ],
+    "wzx_saimin_odoshishi.fsys": [
+        885972320,
+        68480
+    ],
+    "wzx_saimin_sp1.fsys": [
+        886040800,
+        68416
+    ],
+    "wzx_sawagu_attack.fsys": [
+        886109216,
+        224416
+    ],
+    "wzx_sawagu_damage.fsys": [
+        886333632,
+        224320
+    ],
+    "wzx_sawagu_sp1.fsys": [
+        886557952,
+        224416
+    ],
+    "wzx_seinaru_attack.fsys": [
+        886782368,
+        234080
+    ],
+    "wzx_seinaru_damage.fsys": [
+        887016448,
+        194176
+    ],
+    "wzx_seityou_special.fsys": [
+        887210624,
+        224256
+    ],
+    "wzx_seityou_utsubot.fsys": [
+        887434880,
+        224256
+    ],
+    "wzx_selfdamage.fsys": [
+        887659136,
+        54240
+    ],
+    "wzx_shadowball_attack.fsys": [
+        887713376,
+        269024
+    ],
+    "wzx_shadowball_damage.fsys": [
+        887982400,
+        187904
+    ],
+    "wzx_shadowpunch_attack.fsys": [
+        888170304,
+        42016
+    ],
+    "wzx_shadowpunch_damage.fsys": [
+        888212320,
+        163520
+    ],
+    "wzx_shibire_attack.fsys": [
+        888375840,
+        34848
+    ],
+    "wzx_shibire_damage.fsys": [
+        888410688,
+        53600
+    ],
+    "wzx_shibire_sp1.fsys": [
+        888464288,
+        34848
+    ],
+    "wzx_shimetsukeru_attack.fsys": [
+        888499136,
+        416
+    ],
+    "wzx_shimetsukeru_damage.fsys": [
+        888499552,
+        21408
+    ],
+    "wzx_shimetsukeru_sp1.fsys": [
+        888520960,
+        416
+    ],
+    "wzx_shinsoku_attack.fsys": [
+        888521376,
+        544
+    ],
+    "wzx_shinsoku_damage.fsys": [
+        888521920,
+        121344
+    ],
+    "wzx_shippowofuru_attack.fsys": [
+        888643264,
+        51680
+    ],
+    "wzx_shippowofuru_eievui.fsys": [
+        888694944,
+        51392
+    ],
+    "wzx_shippowofuru_enekororo.fsys": [
+        888746336,
+        51392
+    ],
+    "wzx_shippowofuru_showers.fsys": [
+        888797728,
+        51360
+    ],
+    "wzx_shippowofuru_sp1.fsys": [
+        888849088,
+        51360
+    ],
+    "wzx_shiroikiri_special.fsys": [
+        888900448,
+        8448
+    ],
+    "wzx_shita_attack.fsys": [
+        888908896,
+        23360
+    ],
+    "wzx_shita_bulu.fsys": [
+        888932256,
+        23360
+    ],
+    "wzx_shita_damage.fsys": [
+        888955616,
+        16576
+    ],
+    "wzx_shita_nodat.fsys": [
+        888972192,
+        10624
+    ],
+    "wzx_shita_sp1.fsys": [
+        888982816,
+        23360
+    ],
+    "wzx_shizennochikara_attack.fsys": [
+        889006176,
+        416
+    ],
+    "wzx_shizennochikara_damage.fsys": [
+        889006592,
+        352
+    ],
+    "wzx_signalbeam_attack.fsys": [
+        889006944,
+        3392
+    ],
+    "wzx_signalbeam_damage.fsys": [
+        889010336,
+        3392
+    ],
+    "wzx_signalbeam_kongpang.fsys": [
+        889013728,
+        3392
+    ],
+    "wzx_sinpi_lunatone.fsys": [
+        889017120,
+        258560
+    ],
+    "wzx_sinpi_special.fsys": [
+        889275680,
+        258528
+    ],
+    "wzx_siofuki_attack.fsys": [
+        889534208,
+        54880
+    ],
+    "wzx_siofuki_damage.fsys": [
+        889589088,
+        22464
+    ],
+    "wzx_siofuki_sp1.fsys": [
+        889611552,
+        54848
+    ],
+    "wzx_sketch_attack.fsys": [
+        889666400,
+        47904
+    ],
+    "wzx_sketch_damage.fsys": [
+        889714304,
+        47840
+    ],
+    "wzx_sketch_doble.fsys": [
+        889762144,
+        47904
+    ],
+    "wzx_sketch_special.fsys": [
+        889810048,
+        47872
+    ],
+    "wzx_skillswap_attack.fsys": [
+        889857920,
+        213632
+    ],
+    "wzx_skillswap_damage.fsys": [
+        890071552,
+        213920
+    ],
+    "wzx_skillswap_damage_sp1.fsys": [
+        890285472,
+        214464
+    ],
+    "wzx_skillswap_kongpang.fsys": [
+        890499936,
+        213632
+    ],
+    "wzx_skillswap_sp1.fsys": [
+        890713568,
+        213632
+    ],
+    "wzx_skillswap_special.fsys": [
+        890927200,
+        213728
+    ],
+    "wzx_skillswap_special_sp1.fsys": [
+        891140928,
+        213696
+    ],
+    "wzx_skyupper_attack.fsys": [
+        891354624,
+        13888
+    ],
+    "wzx_skyupper_damage.fsys": [
+        891368512,
+        185024
+    ],
+    "wzx_skyupper_ebiwalar.fsys": [
+        891553536,
+        13888
+    ],
+    "wzx_smog_attack.fsys": [
+        891567424,
+        36032
+    ],
+    "wzx_smog_damage.fsys": [
+        891603456,
+        52704
+    ],
+    "wzx_snatch_attack.fsys": [
+        891656160,
+        234240
+    ],
+    "wzx_snatch_attack_dive.fsys": [
+        891890400,
+        237184
+    ],
+    "wzx_snatch_attack_gorgeus.fsys": [
+        892127584,
+        246880
+    ],
+    "wzx_snatch_attack_hyper.fsys": [
+        892374464,
+        238496
+    ],
+    "wzx_snatch_attack_master.fsys": [
+        892612960,
+        244480
+    ],
+    "wzx_snatch_attack_monster.fsys": [
+        892857440,
+        233664
+    ],
+    "wzx_snatch_attack_nest.fsys": [
+        893091104,
+        241088
+    ],
+    "wzx_snatch_attack_net.fsys": [
+        893332192,
+        250752
+    ],
+    "wzx_snatch_attack_premire.fsys": [
+        893582944,
+        233696
+    ],
+    "wzx_snatch_attack_repeat.fsys": [
+        893816640,
+        238432
+    ],
+    "wzx_snatch_attack_safari.fsys": [
+        894055072,
+        240864
+    ],
+    "wzx_snatch_attack_super.fsys": [
+        894295936,
+        245824
+    ],
+    "wzx_snatch_attack_timer.fsys": [
+        894541760,
+        240320
+    ],
+    "wzx_snatch_ball_land.fsys": [
+        894782080,
+        87936
+    ],
+    "wzx_snatch_ball_land_dive.fsys": [
+        894870016,
+        89664
+    ],
+    "wzx_snatch_ball_land_gorgeus.fsys": [
+        894959680,
+        94496
+    ],
+    "wzx_snatch_ball_land_hyper.fsys": [
+        895054176,
+        90304
+    ],
+    "wzx_snatch_ball_land_master.fsys": [
+        895144480,
+        93312
+    ],
+    "wzx_snatch_ball_land_monster.fsys": [
+        895237792,
+        87904
+    ],
+    "wzx_snatch_ball_land_nest.fsys": [
+        895325696,
+        91616
+    ],
+    "wzx_snatch_ball_land_net.fsys": [
+        895417312,
+        96448
+    ],
+    "wzx_snatch_ball_land_premire.fsys": [
+        895513760,
+        87904
+    ],
+    "wzx_snatch_ball_land_repeat.fsys": [
+        895601664,
+        90272
+    ],
+    "wzx_snatch_ball_land_safari.fsys": [
+        895691936,
+        91488
+    ],
+    "wzx_snatch_ball_land_super.fsys": [
+        895783424,
+        93984
+    ],
+    "wzx_snatch_ball_land_timer.fsys": [
+        895877408,
+        91232
+    ],
+    "wzx_snatch_miss.fsys": [
+        895968640,
+        86816
+    ],
+    "wzx_snatch_miss_dive.fsys": [
+        896055456,
+        89152
+    ],
+    "wzx_snatch_miss_gorgeus.fsys": [
+        896144608,
+        93984
+    ],
+    "wzx_snatch_miss_hyper.fsys": [
+        896238592,
+        89792
+    ],
+    "wzx_snatch_miss_master.fsys": [
+        896328384,
+        92800
+    ],
+    "wzx_snatch_miss_monster.fsys": [
+        896421184,
+        87392
+    ],
+    "wzx_snatch_miss_nest.fsys": [
+        896508576,
+        91104
+    ],
+    "wzx_snatch_miss_net.fsys": [
+        896599680,
+        95936
+    ],
+    "wzx_snatch_miss_premire.fsys": [
+        896695616,
+        87392
+    ],
+    "wzx_snatch_miss_repeat.fsys": [
+        896783008,
+        89760
+    ],
+    "wzx_snatch_miss_safari.fsys": [
+        896872768,
+        90976
+    ],
+    "wzx_snatch_miss_super.fsys": [
+        896963744,
+        93472
+    ],
+    "wzx_snatch_miss_timer.fsys": [
+        897057216,
+        90720
+    ],
+    "wzx_snatch_poke_out.fsys": [
+        897147936,
+        266848
+    ],
+    "wzx_snatch_shake.fsys": [
+        897414784,
+        8096
+    ],
+    "wzx_snatch_shake_dive.fsys": [
+        897422880,
+        9856
+    ],
+    "wzx_snatch_shake_gorgeus.fsys": [
+        897432736,
+        14720
+    ],
+    "wzx_snatch_shake_hyper.fsys": [
+        897447456,
+        10528
+    ],
+    "wzx_snatch_shake_master.fsys": [
+        897457984,
+        13504
+    ],
+    "wzx_snatch_shake_monster.fsys": [
+        897471488,
+        8096
+    ],
+    "wzx_snatch_shake_nest.fsys": [
+        897479584,
+        11808
+    ],
+    "wzx_snatch_shake_net.fsys": [
+        897491392,
+        16640
+    ],
+    "wzx_snatch_shake_premire.fsys": [
+        897508032,
+        8128
+    ],
+    "wzx_snatch_shake_repeat.fsys": [
+        897516160,
+        10496
+    ],
+    "wzx_snatch_shake_safari.fsys": [
+        897526656,
+        11712
+    ],
+    "wzx_snatch_shake_super.fsys": [
+        897538368,
+        14176
+    ],
+    "wzx_snatch_shake_timer.fsys": [
+        897552544,
+        11424
+    ],
+    "wzx_snatch_snatch.fsys": [
+        897563968,
+        191584
+    ],
+    "wzx_solarbeam_attack.fsys": [
+        897755552,
+        295200
+    ],
+    "wzx_solarbeam_barubeat.fsys": [
+        898050752,
+        295200
+    ],
+    "wzx_solarbeam_damage.fsys": [
+        898345952,
+        46432
+    ],
+    "wzx_solarbeam_eipam.fsys": [
+        898392384,
+        295200
+    ],
+    "wzx_solarbeam_kentauros.fsys": [
+        898687584,
+        295200
+    ],
+    "wzx_solarbeam_sp1.fsys": [
+        898982784,
+        295232
+    ],
+    "wzx_solarbeam_special.fsys": [
+        899278016,
+        133024
+    ],
+    "wzx_solarbeam_special_sp1.fsys": [
+        899411040,
+        133024
+    ],
+    "wzx_sonicboom_ariados.fsys": [
+        899544064,
+        61152
+    ],
+    "wzx_sonicboom_attack.fsys": [
+        899605216,
+        61152
+    ],
+    "wzx_sonicboom_damage.fsys": [
+        899666368,
+        245952
+    ],
+    "wzx_sonicboom_rarecoil.fsys": [
+        899912320,
+        61152
+    ],
+    "wzx_sorawotobu_attack.fsys": [
+        899973472,
+        448
+    ],
+    "wzx_sorawotobu_damage.fsys": [
+        899973920,
+        25152
+    ],
+    "wzx_sorawotobu_sp1.fsys": [
+        899999072,
+        736
+    ],
+    "wzx_sorawotobu_sp2.fsys": [
+        899999808,
+        736
+    ],
+    "wzx_sorawotobu_special.fsys": [
+        900000544,
+        736
+    ],
+    "wzx_spark_attack.fsys": [
+        900001280,
+        18272
+    ],
+    "wzx_spark_damage.fsys": [
+        900019552,
+        102336
+    ],
+    "wzx_speedstar_attack.fsys": [
+        900121888,
+        25568
+    ],
+    "wzx_speedstar_damage.fsys": [
+        900147456,
+        25504
+    ],
+    "wzx_speedstar_sp1.fsys": [
+        900172960,
+        25568
+    ],
+    "wzx_spoonmage_attack.fsys": [
+        900198528,
+        22272
+    ],
+    "wzx_spoonmage_foodin.fsys": [
+        900220800,
+        15840
+    ],
+    "wzx_spoonmage_yungere.fsys": [
+        900236640,
+        22272
+    ],
+    "wzx_suitoru_attack.fsys": [
+        900258912,
+        13856
+    ],
+    "wzx_suitoru_damage.fsys": [
+        900272768,
+        16032
+    ],
+    "wzx_suitoru_nazokokusa.fsys": [
+        900288800,
+        13824
+    ],
+    "wzx_suitoru_sp1.fsys": [
+        900302624,
+        13856
+    ],
+    "wzx_suitoru_special.fsys": [
+        900316480,
+        42304
+    ],
+    "wzx_sunaarashi_all.fsys": [
+        900358784,
+        424448
+    ],
+    "wzx_sunaarashi_attack.fsys": [
+        900783232,
+        450112
+    ],
+    "wzx_sunaarashi_damage.fsys": [
+        901233344,
+        423136
+    ],
+    "wzx_sunaarashi_sp1.fsys": [
+        901656480,
+        450112
+    ],
+    "wzx_sunaarashi_sp2.fsys": [
+        902106592,
+        450112
+    ],
+    "wzx_sunajigoku_attack.fsys": [
+        902556704,
+        60448
+    ],
+    "wzx_sunajigoku_damage.fsys": [
+        902617152,
+        42496
+    ],
+    "wzx_sunakake_attack.fsys": [
+        902659648,
+        115872
+    ],
+    "wzx_sunakake_damage.fsys": [
+        902775520,
+        115968
+    ],
+    "wzx_sunakake_sp1.fsys": [
+        902891488,
+        115872
+    ],
+    "wzx_sunakake_sp2.fsys": [
+        903007360,
+        115872
+    ],
+    "wzx_sunakake_sp3.fsys": [
+        903123232,
+        115872
+    ],
+    "wzx_superball_downin.fsys": [
+        903239104,
+        299904
+    ],
+    "wzx_superball_in.fsys": [
+        903539008,
+        301184
+    ],
+    "wzx_superball_open.fsys": [
+        903840192,
+        93664
+    ],
+    "wzx_superball_out.fsys": [
+        903933856,
+        218304
+    ],
+    "wzx_sutemi_attack.fsys": [
+        904152160,
+        92000
+    ],
+    "wzx_sutemi_damage.fsys": [
+        904244160,
+        81408
+    ],
+    "wzx_taiatari_attack.fsys": [
+        904325568,
+        416
+    ],
+    "wzx_taiatari_damage.fsys": [
+        904325984,
+        67072
+    ],
+    "wzx_taki_attack.fsys": [
+        904393056,
+        192448
+    ],
+    "wzx_taki_damage.fsys": [
+        904585504,
+        193152
+    ],
+    "wzx_taki_milokaross.fsys": [
+        904778656,
+        192448
+    ],
+    "wzx_takuwaeru_special.fsys": [
+        904971104,
+        8224
+    ],
+    "wzx_tamagobomb_attack.fsys": [
+        904979328,
+        89920
+    ],
+    "wzx_tamagobomb_damage.fsys": [
+        905069248,
+        33536
+    ],
+    "wzx_tamagobomb_lucky.fsys": [
+        905102784,
+        33632
+    ],
+    "wzx_tamagobomb_nassy.fsys": [
+        905136416,
+        89920
+    ],
+    "wzx_tamagoumi_mew.fsys": [
+        905226336,
+        92800
+    ],
+    "wzx_tamagoumi_sp1.fsys": [
+        905319136,
+        92800
+    ],
+    "wzx_tamagoumi_special.fsys": [
+        905411936,
+        92832
+    ],
+    "wzx_tamanage_attack.fsys": [
+        905504768,
+        8800
+    ],
+    "wzx_tamanage_damage.fsys": [
+        905513568,
+        212256
+    ],
+    "wzx_tamanage_nassy.fsys": [
+        905725824,
+        8800
+    ],
+    "wzx_tane_attack.fsys": [
+        905734624,
+        17504
+    ],
+    "wzx_tane_damage.fsys": [
+        905752128,
+        17568
+    ],
+    "wzx_tane_sp1.fsys": [
+        905769696,
+        17504
+    ],
+    "wzx_tataki_attack.fsys": [
+        905787200,
+        416
+    ],
+    "wzx_tataki_damage.fsys": [
+        905787616,
+        85344
+    ],
+    "wzx_tataki_sp1.fsys": [
+        905872960,
+        416
+    ],
+    "wzx_tatsumaki_attack.fsys": [
+        905873376,
+        27424
+    ],
+    "wzx_tatsumaki_camome.fsys": [
+        905900800,
+        27424
+    ],
+    "wzx_tatsumaki_damage.fsys": [
+        905928224,
+        84736
+    ],
+    "wzx_tatsumaki_sp1.fsys": [
+        906012960,
+        27424
+    ],
+    "wzx_tedasuke_attack.fsys": [
+        906040384,
+        18208
+    ],
+    "wzx_tedasuke_sp1.fsys": [
+        906058592,
+        18208
+    ],
+    "wzx_tedasuke_special.fsys": [
+        906076800,
+        18240
+    ],
+    "wzx_tedasuke_status.fsys": [
+        906095040,
+        160
+    ],
+    "wzx_teleport_special.fsys": [
+        906095200,
+        112480
+    ],
+    "wzx_tenshinokiss_attack.fsys": [
+        906207680,
+        23520
+    ],
+    "wzx_tenshinokiss_damage.fsys": [
+        906231200,
+        56224
+    ],
+    "wzx_tenshinokiss_sp1.fsys": [
+        906287424,
+        23520
+    ],
+    "wzx_teppeki_cotoise.fsys": [
+        906310944,
+        49568
+    ],
+    "wzx_teppeki_special.fsys": [
+        906360512,
+        49568
+    ],
+    "wzx_texture2_special.fsys": [
+        906410080,
+        58496
+    ],
+    "wzx_texture_special.fsys": [
+        906468576,
+        41792
+    ],
+    "wzx_throw_dive.fsys": [
+        906510368,
+        8384
+    ],
+    "wzx_throw_gorgeous.fsys": [
+        906518752,
+        160
+    ],
+    "wzx_throw_gorgeus.fsys": [
+        906518912,
+        13248
+    ],
+    "wzx_throw_hyper.fsys": [
+        906532160,
+        9024
+    ],
+    "wzx_throw_master.fsys": [
+        906541184,
+        12032
+    ],
+    "wzx_throw_monster.fsys": [
+        906553216,
+        6624
+    ],
+    "wzx_throw_nest.fsys": [
+        906559840,
+        10336
+    ],
+    "wzx_throw_net.fsys": [
+        906570176,
+        15168
+    ],
+    "wzx_throw_premiere.fsys": [
+        906585344,
+        6656
+    ],
+    "wzx_throw_repeat.fsys": [
+        906592000,
+        9024
+    ],
+    "wzx_throw_safari.fsys": [
+        906601024,
+        10240
+    ],
+    "wzx_throw_super.fsys": [
+        906611264,
+        12704
+    ],
+    "wzx_throw_timer.fsys": [
+        906623968,
+        9952
+    ],
+    "wzx_tiisakunaru_special.fsys": [
+        906633920,
+        224288
+    ],
+    "wzx_timerball_downin.fsys": [
+        906858208,
+        266368
+    ],
+    "wzx_timerball_in.fsys": [
+        907124576,
+        267648
+    ],
+    "wzx_timerball_open.fsys": [
+        907392224,
+        90912
+    ],
+    "wzx_timerball_out.fsys": [
+        907483136,
+        186432
+    ],
+    "wzx_tobigeri_attack.fsys": [
+        907669568,
+        416
+    ],
+    "wzx_tobigeri_damage.fsys": [
+        907669984,
+        54240
+    ],
+    "wzx_tobihaneru_attack.fsys": [
+        907724224,
+        13888
+    ],
+    "wzx_tobihaneru_damage.fsys": [
+        907738112,
+        166368
+    ],
+    "wzx_tobihaneru_special.fsys": [
+        907904480,
+        736
+    ],
+    "wzx_tobihaneru_special_sp1.fsys": [
+        907905216,
+        736
+    ],
+    "wzx_tobihiza_attack.fsys": [
+        907905952,
+        416
+    ],
+    "wzx_tobihiza_damage.fsys": [
+        907906368,
+        86272
+    ],
+    "wzx_togekyanon_attack.fsys": [
+        907992640,
+        5792
+    ],
+    "wzx_togekyanon_damage.fsys": [
+        907998432,
+        208224
+    ],
+    "wzx_togekyanon_parshen.fsys": [
+        908206656,
+        5792
+    ],
+    "wzx_tokeru.fsys": [
+        908212448,
+        384
+    ],
+    "wzx_tokeru_special.fsys": [
+        908212832,
+        63712
+    ],
+    "wzx_tooboe_sp1.fsys": [
+        908276544,
+        67840
+    ],
+    "wzx_tooboe_special.fsys": [
+        908344384,
+        67840
+    ],
+    "wzx_toosenbou_attack.fsys": [
+        908412224,
+        416
+    ],
+    "wzx_toosenbou_damage.fsys": [
+        908412640,
+        3360
+    ],
+    "wzx_tosshin_attack.fsys": [
+        908416000,
+        92032
+    ],
+    "wzx_tosshin_damage.fsys": [
+        908508032,
+        79552
+    ],
+    "wzx_tosshin_sp1.fsys": [
+        908587584,
+        92032
+    ],
+    "wzx_trainer_enter_a.fsys": [
+        908679616,
+        3616
+    ],
+    "wzx_trainer_enter_b.fsys": [
+        908683232,
+        2336
+    ],
+    "wzx_trainer_enter_c.fsys": [
+        908685568,
+        4832
+    ],
+    "wzx_trainer_enter_d.fsys": [
+        908690400,
+        4448
+    ],
+    "wzx_trainer_enter_e.fsys": [
+        908694848,
+        2720
+    ],
+    "wzx_trick_attack.fsys": [
+        908697568,
+        158848
+    ],
+    "wzx_trick_barubeat.fsys": [
+        908856416,
+        158880
+    ],
+    "wzx_trick_damage.fsys": [
+        909015296,
+        159680
+    ],
+    "wzx_trick_damage_sp1.fsys": [
+        909174976,
+        159680
+    ],
+    "wzx_trick_foodin.fsys": [
+        909334656,
+        158880
+    ],
+    "wzx_trick_special.fsys": [
+        909493536,
+        158912
+    ],
+    "wzx_trick_special_sp1.fsys": [
+        909652448,
+        158944
+    ],
+    "wzx_triplekick_attack.fsys": [
+        909811392,
+        416
+    ],
+    "wzx_triplekick_damage.fsys": [
+        909811808,
+        25888
+    ],
+    "wzx_triplekick_damage2.fsys": [
+        909837696,
+        25888
+    ],
+    "wzx_triplekick_damage3.fsys": [
+        909863584,
+        25888
+    ],
+    "wzx_tryattack_attack.fsys": [
+        909889472,
+        88384
+    ],
+    "wzx_tryattack_damage.fsys": [
+        909977856,
+        57696
+    ],
+    "wzx_tryattack_porygon.fsys": [
+        910035552,
+        88384
+    ],
+    "wzx_tsubame_attack.fsys": [
+        910123936,
+        23232
+    ],
+    "wzx_tsubame_damage.fsys": [
+        910147168,
+        64928
+    ],
+    "wzx_tsubasa_attack.fsys": [
+        910212096,
+        416
+    ],
+    "wzx_tsubasa_damage.fsys": [
+        910212512,
+        51488
+    ],
+    "wzx_tsunodrillk_doble.fsys": [
+        910264000,
+        102560
+    ],
+    "wzx_tsunodrill_attack.fsys": [
+        910366560,
+        102560
+    ],
+    "wzx_tsunodrill_damage.fsys": [
+        910469120,
+        102560
+    ],
+    "wzx_tsunodrill_kentauros.fsys": [
+        910571680,
+        102624
+    ],
+    "wzx_tsunodrill_laplace.fsys": [
+        910674304,
+        102560
+    ],
+    "wzx_tsunodrill_sp1.fsys": [
+        910776864,
+        102560
+    ],
+    "wzx_tsuno_attack.fsys": [
+        910879424,
+        416
+    ],
+    "wzx_tsuno_damage.fsys": [
+        910879840,
+        39456
+    ],
+    "wzx_tsuppari_attack.fsys": [
+        910919296,
+        416
+    ],
+    "wzx_tsuppari_damage.fsys": [
+        910919712,
+        9280
+    ],
+    "wzx_tsuru_attack.fsys": [
+        910928992,
+        14368
+    ],
+    "wzx_tsuru_damage.fsys": [
+        910943360,
+        34528
+    ],
+    "wzx_tsuru_fushigibana.fsys": [
+        910977888,
+        14368
+    ],
+    "wzx_tsuru_sp1.fsys": [
+        910992256,
+        14368
+    ],
+    "wzx_tsutsuku_attack.fsys": [
+        911006624,
+        5632
+    ],
+    "wzx_tsutsuku_azumao.fsys": [
+        911012256,
+        5632
+    ],
+    "wzx_tsutsuku_damage.fsys": [
+        911017888,
+        26272
+    ],
+    "wzx_tsutsuku_nidoking.fsys": [
+        911044160,
+        5632
+    ],
+    "wzx_tukinohikari_special.fsys": [
+        911049792,
+        72000
+    ],
+    "wzx_turarabari_attack.fsys": [
+        911121792,
+        12512
+    ],
+    "wzx_turarabari_damage.fsys": [
+        911134304,
+        12480
+    ],
+    "wzx_turarabari_parshen.fsys": [
+        911146784,
+        12512
+    ],
+    "wzx_turuginomai_special.fsys": [
+        911159296,
+        83840
+    ],
+    "wzx_turuginomai_strike.fsys": [
+        911243136,
+        83808
+    ],
+    "wzx_tyouonpa_attack.fsys": [
+        911326944,
+        300704
+    ],
+    "wzx_tyouonpa_damage.fsys": [
+        911627648,
+        270528
+    ],
+    "wzx_tyouonpa_sp1.fsys": [
+        911898176,
+        300704
+    ],
+    "wzx_urami_attack.fsys": [
+        912198880,
+        30784
+    ],
+    "wzx_urami_damage.fsys": [
+        912229664,
+        30784
+    ],
+    "wzx_usonaki_attack.fsys": [
+        912260448,
+        78912
+    ],
+    "wzx_usonaki_kucheat.fsys": [
+        912339360,
+        78880
+    ],
+    "wzx_utau_attack.fsys": [
+        912418240,
+        204416
+    ],
+    "wzx_utau_sp1.fsys": [
+        912622656,
+        204416
+    ],
+    "wzx_utau_tyltto.fsys": [
+        912827072,
+        204448
+    ],
+    "wzx_uzusio_attack.fsys": [
+        913031520,
+        209952
+    ],
+    "wzx_uzusio_damage.fsys": [
+        913241472,
+        211264
+    ],
+    "wzx_version_out_attack.fsys": [
+        913452736,
+        117376
+    ],
+    "wzx_version_out_damage.fsys": [
+        913570112,
+        43008
+    ],
+    "wzx_voltecker_attack.fsys": [
+        913613120,
+        48832
+    ],
+    "wzx_voltecker_damage.fsys": [
+        913661952,
+        146304
+    ],
+    "wzx_wakeup.fsys": [
+        913808256,
+        384
+    ],
+    "wzx_waruagaki_attack.fsys": [
+        913808640,
+        62816
+    ],
+    "wzx_waruagaki_damage.fsys": [
+        913871456,
+        27072
+    ],
+    "wzx_wata_attack.fsys": [
+        913898528,
+        13664
+    ],
+    "wzx_wata_damage.fsys": [
+        913912192,
+        44064
+    ],
+    "wzx_weatherball_attack.fsys": [
+        913956256,
+        76480
+    ],
+    "wzx_weatherball_damage.fsys": [
+        914032736,
+        76416
+    ],
+    "wzx_weatherball_damage_ame.fsys": [
+        914109152,
+        76416
+    ],
+    "wzx_weatherball_damage_arare.fsys": [
+        914185568,
+        76416
+    ],
+    "wzx_weatherball_damage_dark.fsys": [
+        914261984,
+        76448
+    ],
+    "wzx_weatherball_damage_hare.fsys": [
+        914338432,
+        76416
+    ],
+    "wzx_weatherball_damage_suna.fsys": [
+        914414848,
+        76416
+    ],
+    "wzx_win.fsys": [
+        914491264,
+        352
+    ],
+    "wzx_yadorigi_attack.fsys": [
+        914491616,
+        55968
+    ],
+    "wzx_yadorigi_damage.fsys": [
+        914547584,
+        56000
+    ],
+    "wzx_yadorigi_sp1.fsys": [
+        914603584,
+        55936
+    ],
+    "wzx_yadorigi_status.fsys": [
+        914659520,
+        134944
+    ],
+    "wzx_yakedo_status.fsys": [
+        914794464,
+        88576
+    ],
+    "wzx_yasei_ball_land_dive.fsys": [
+        914883040,
+        10048
+    ],
+    "wzx_yasei_ball_land_gorgeus.fsys": [
+        914893088,
+        14912
+    ],
+    "wzx_yasei_ball_land_hyper.fsys": [
+        914908000,
+        10720
+    ],
+    "wzx_yasei_ball_land_master.fsys": [
+        914918720,
+        13696
+    ],
+    "wzx_yasei_ball_land_monster.fsys": [
+        914932416,
+        8288
+    ],
+    "wzx_yasei_ball_land_nest.fsys": [
+        914940704,
+        12000
+    ],
+    "wzx_yasei_ball_land_net.fsys": [
+        914952704,
+        16832
+    ],
+    "wzx_yasei_ball_land_premire.fsys": [
+        914969536,
+        8320
+    ],
+    "wzx_yasei_ball_land_repeat.fsys": [
+        914977856,
+        10688
+    ],
+    "wzx_yasei_ball_land_safari.fsys": [
+        914988544,
+        11904
+    ],
+    "wzx_yasei_ball_land_super.fsys": [
+        915000448,
+        14368
+    ],
+    "wzx_yasei_ball_land_timer.fsys": [
+        915014816,
+        11616
+    ],
+    "wzx_yasei_get.fsys": [
+        915026432,
+        38848
+    ],
+    "wzx_yasei_get_dive.fsys": [
+        915065280,
+        40608
+    ],
+    "wzx_yasei_get_gorgeus.fsys": [
+        915105888,
+        45472
+    ],
+    "wzx_yasei_get_hyper.fsys": [
+        915151360,
+        41280
+    ],
+    "wzx_yasei_get_master.fsys": [
+        915192640,
+        44288
+    ],
+    "wzx_yasei_get_monster.fsys": [
+        915236928,
+        38880
+    ],
+    "wzx_yasei_get_nest.fsys": [
+        915275808,
+        42560
+    ],
+    "wzx_yasei_get_net.fsys": [
+        915318368,
+        47392
+    ],
+    "wzx_yasei_get_premire.fsys": [
+        915365760,
+        38880
+    ],
+    "wzx_yasei_get_repeat.fsys": [
+        915404640,
+        41248
+    ],
+    "wzx_yasei_get_safari.fsys": [
+        915445888,
+        42464
+    ],
+    "wzx_yasei_get_super.fsys": [
+        915488352,
+        44960
+    ],
+    "wzx_yasei_get_timer.fsys": [
+        915533312,
+        42176
+    ],
+    "wzx_yasei_poke_out.fsys": [
+        915575488,
+        97280
+    ],
+    "wzx_yasei_poke_out_dive.fsys": [
+        915672768,
+        99040
+    ],
+    "wzx_yasei_poke_out_gorgeus.fsys": [
+        915771808,
+        103872
+    ],
+    "wzx_yasei_poke_out_hyper.fsys": [
+        915875680,
+        99680
+    ],
+    "wzx_yasei_poke_out_monster.fsys": [
+        915975360,
+        97280
+    ],
+    "wzx_yasei_poke_out_nest.fsys": [
+        916072640,
+        100992
+    ],
+    "wzx_yasei_poke_out_net.fsys": [
+        916173632,
+        105824
+    ],
+    "wzx_yasei_poke_out_premire.fsys": [
+        916279456,
+        97280
+    ],
+    "wzx_yasei_poke_out_repeat.fsys": [
+        916376736,
+        99648
+    ],
+    "wzx_yasei_poke_out_safari.fsys": [
+        916476384,
+        100864
+    ],
+    "wzx_yasei_poke_out_super.fsys": [
+        916577248,
+        103360
+    ],
+    "wzx_yasei_poke_out_timer.fsys": [
+        916680608,
+        100608
+    ],
+    "wzx_yasei_shake_dive.fsys": [
+        916781216,
+        9344
+    ],
+    "wzx_yasei_shake_gorgeus.fsys": [
+        916790560,
+        14208
+    ],
+    "wzx_yasei_shake_hyper.fsys": [
+        916804768,
+        10016
+    ],
+    "wzx_yasei_shake_master.fsys": [
+        916814784,
+        12992
+    ],
+    "wzx_yasei_shake_monster.fsys": [
+        916827776,
+        7584
+    ],
+    "wzx_yasei_shake_nest.fsys": [
+        916835360,
+        11296
+    ],
+    "wzx_yasei_shake_net.fsys": [
+        916846656,
+        16128
+    ],
+    "wzx_yasei_shake_premire.fsys": [
+        916862784,
+        7584
+    ],
+    "wzx_yasei_shake_repeat.fsys": [
+        916870368,
+        9984
+    ],
+    "wzx_yasei_shake_safari.fsys": [
+        916880352,
+        11136
+    ],
+    "wzx_yasei_shake_super.fsys": [
+        916891488,
+        13696
+    ],
+    "wzx_yasei_shake_timer.fsys": [
+        916905184,
+        10912
+    ],
+    "wzx_yatsuatari_attack.fsys": [
+        916916096,
+        448
+    ],
+    "wzx_yatsuatari_damage.fsys": [
+        916916544,
+        56288
+    ],
+    "wzx_yatsuatari_damage2.fsys": [
+        916972832,
+        56288
+    ],
+    "wzx_yatsuatari_damage3.fsys": [
+        917029120,
+        56288
+    ],
+    "wzx_yatsuatari_damage4.fsys": [
+        917085408,
+        56288
+    ],
+    "wzx_yoga_sleeper.fsys": [
+        917141696,
+        45472
+    ],
+    "wzx_yoga_special.fsys": [
+        917187168,
+        45472
+    ],
+    "wzx_yokodori_attack.fsys": [
+        917232640,
+        70752
+    ],
+    "wzx_yokodori_damage.fsys": [
+        917303392,
+        70848
+    ],
+    "wzx_yokodori_eipam.fsys": [
+        917374240,
+        70752
+    ],
+    "wzx_yokodori_sp1.fsys": [
+        917444992,
+        70752
+    ],
+    "wzx_yokodori_special.fsys": [
+        917515744,
+        56992
+    ],
+    "wzx_youkaieki_attack.fsys": [
+        917572736,
+        22112
+    ],
+    "wzx_youkaieki_damage.fsys": [
+        917594848,
+        40416
+    ],
+    "wzx_yubiwofuru_attack.fsys": [
+        917635264,
+        5536
+    ],
+    "wzx_yubiwofuru_kabigon.fsys": [
+        917640800,
+        5504
+    ],
+    "wzx_yubiwofuru_sp1.fsys": [
+        917646304,
+        5504
+    ],
+    "wzx_yubiwofuru_sp2.fsys": [
+        917651808,
+        5536
+    ],
+    "wzx_yumekui_attack.fsys": [
+        917657344,
+        13856
+    ],
+    "wzx_yumekui_damage.fsys": [
+        917671200,
+        15008
+    ],
+    "wzx_yumekui_sp1.fsys": [
+        917686208,
+        82432
+    ],
+    "wzx_yumekui_sp2.fsys": [
+        917768640,
+        13888
+    ],
+    "wzx_yumekui_special.fsys": [
+        917782528,
+        82432
+    ],
+    "wzx_zettaireido_attack.fsys": [
+        917864960,
+        251456
+    ],
+    "wzx_zettaireido_damage.fsys": [
+        918116416,
+        221760
+    ],
+    "wzx_ziware_attack.fsys": [
+        918338176,
+        25792
+    ],
+    "wzx_ziware_damage.fsys": [
+        918363968,
+        268704
+    ],
+    "wzx_ziware_sp1.fsys": [
+        918632672,
+        25792
+    ],
+    "wzx_zutsuki_attack.fsys": [
+        918658464,
+        416
+    ],
+    "wzx_zutsuki_bossgodora.fsys": [
+        918658880,
+        416
+    ],
+    "wzx_zutsuki_damage.fsys": [
+        918659296,
+        35040
+    ]
+}

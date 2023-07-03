@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 //----------
 // Handles the randomizing logic of the program
 // DeckDataSwap - Takes a block of byte data starting at an offset in an array of all relevant bytes, shuffles existing pokemon around
@@ -12,15 +8,18 @@ namespace XDColloWPF.Randomize
 {
     class Randomize
     {
-        public byte[][] Shuffle(byte[] buffer, int offset, byte blocksize, int deckslots) { 
-        
+        public byte[][] Shuffle(byte[] buffer, int offset, byte blocksize, int deckslots)
+        {
+
             int totalslots = (buffer.Length - offset) / blocksize; //how many slots do we need for our array
             byte[][] shuffleddeck = new byte[totalslots][]; //initialize new array with the number of slots needed
             int slotpos = 0;
 
-            while (slotpos <= totalslots) { //begin copying blocks of bytes
+            while (slotpos <= totalslots)
+            { //begin copying blocks of bytes
 
-                foreach (byte slot in shuffleddeck[slotpos]) {
+                foreach (byte slot in shuffleddeck[slotpos])
+                {
 
                     byte[] copybuffer = new byte[blocksize];
 
@@ -29,13 +28,15 @@ namespace XDColloWPF.Randomize
                     shuffleddeck[slotpos] = copybuffer; //write all 32 bytes to new slot position?
 
                     slotpos++;
-                } System.Diagnostics.Debug.WriteLine(shuffleddeck.ToString());
-            } return shuffleddeck;
+                }
+                System.Diagnostics.Debug.WriteLine(shuffleddeck.ToString());
+            }
+            return shuffleddeck;
         }
 
         //public byte[] RandomizeDeck(byte[] buffer, char offset, byte range)
         //{
-            //return;
+        //return;
         //}
     }
 }

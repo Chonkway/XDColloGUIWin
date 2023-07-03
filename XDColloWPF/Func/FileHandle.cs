@@ -1,21 +1,20 @@
 ﻿// ----------
-// Handles the operations of pathing the ISO, unpacking it and repacking it
+// Handles some operations for reading the file. A lot of unpacking/repacking and editing is done over in
+// filehandling.py
 // ----------
 
-using Microsoft.Win32;
-using System.IO;
-using System;
-using System.Windows;
-using System.Windows.Controls.Primitives;
-using System.Reflection;
 using System.Collections.Generic;
-using System.Linq;
+using System.Diagnostics;
+using System.IO;
 
 namespace FileHandle
 {
     public class FileHandling
     {
-        public static List<string> FileInfo(string path) //Returns an array of ["GameID", "Title", "Size"] from source file
+        public static List<string> FileInfo(string path)
+        /// <summary>
+        /// Returns an array of ["GameID", "Title", "Size"] from source file
+        /// </summary>
         {
 
             List<string> info = new List<string>(); //might need to cast elements to the array idk yet
@@ -53,12 +52,22 @@ namespace FileHandle
                         }
                         break;
 
-                       
 
 
-                } return info;
-                  
+
+                }
+                return info;
+
             }
+        }
+
+        public static void FileTree(string path) //Dictionary<string, Dictionary<int, int>> (calling void for now for debug)
+        ///<summary>
+        /// Calls Filehandling.py to retreive the dirtree of the loaded ISO, casting to a C# Dict
+        /// Dict is formatted {filename {offset_start:size}
+        ///</summary>
+        {
+
         }
     }
 }

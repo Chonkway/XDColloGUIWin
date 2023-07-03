@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\penot\\source\\repos\\XDColloWPF\\XDColloWPF\\XDColloWPF.csproj": {}
+    "C:\\Users\\penot\\OneDrive\\Documents\\GitHub\\XDColloGUIWin\\XDColloWPF\\XDColloWPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\penot\\source\\repos\\XDColloWPF\\XDColloWPF\\XDColloWPF.csproj": {
+    "C:\\Users\\penot\\OneDrive\\Documents\\GitHub\\XDColloGUIWin\\XDColloWPF\\XDColloWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\penot\\source\\repos\\XDColloWPF\\XDColloWPF\\XDColloWPF.csproj",
+        "projectUniqueName": "C:\\Users\\penot\\OneDrive\\Documents\\GitHub\\XDColloGUIWin\\XDColloWPF\\XDColloWPF.csproj",
         "projectName": "XDColloWPF",
-        "projectPath": "C:\\Users\\penot\\source\\repos\\XDColloWPF\\XDColloWPF\\XDColloWPF.csproj",
+        "projectPath": "C:\\Users\\penot\\OneDrive\\Documents\\GitHub\\XDColloGUIWin\\XDColloWPF\\XDColloWPF.csproj",
         "packagesPath": "C:\\Users\\penot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\penot\\source\\repos\\XDColloWPF\\XDColloWPF\\obj\\",
+        "outputPath": "C:\\Users\\penot\\OneDrive\\Documents\\GitHub\\XDColloGUIWin\\XDColloWPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,13 +44,13 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
-            "DiscUtils.Iso9660": {
+            "IronPython": {
               "target": "Package",
-              "version": "[0.16.13, )"
+              "version": "[3.4.0, )"
             },
-            "DiscUtils.OpticalDisk": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[0.16.13, )"
+              "version": "[13.0.3, )"
             }
           },
           "imports": [

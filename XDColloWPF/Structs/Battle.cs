@@ -6,13 +6,15 @@
 // Struct length: 0x3C (60) bytes
 // -----------------------------------------
 
-struct BattlePlayer {
+struct BattlePlayer
+{
     ushort deckId; // offset: 0x0 
     ushort trainerId; // offset: 0x2 Use deck 0, id 5000 for the player's team
     uint controllerIndex; // offset: 0x4 0 for AI
 };
 
-struct Battle {
+struct Battle
+{
     char battleType; // offset: 0x0 
     char trainersPerSide; // offset: 0x1 
     char battleStyle; // offset: 0x2 
