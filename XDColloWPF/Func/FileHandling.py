@@ -3,7 +3,7 @@ import codecs
 import json
 
 
-#Generates a JSON file containing the file tree of the ISO loaded with the files offset and sizeyou
+#Generates a JSON file containing the file tree of the ISO loaded with the files offset and size
 isotree = {}
 with gciso.IsoFile(sys.argv[1]) as isoFile:
     dirtree = isoFile.files

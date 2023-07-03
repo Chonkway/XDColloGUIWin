@@ -20,23 +20,8 @@ namespace XDColloWPF
 
         public MainWindow()
         {
-            // Load the JSON file and parse its contents into a list of objects
-            string json = File.ReadAllText(@"C:\Users\penot\OneDrive\Documents\GitHub\XDColloGUIWin\XDColloWPF\XD_GoD_File_Tree.json");
-            // Parse the JSON data
-            JObject jsonData = JObject.Parse(json);
+            InitializeComponent();
 
-            // Iterate over each key-value pair
-
-            foreach (KeyValuePair<string, JToken> kvp in jsonData)
-            {
-                string fileName = kvp.Key;
-                JArray fileData = (JArray)kvp.Value;
-
-                int offset = fileData[0].ToObject<int>();
-                int size = fileData[1].ToObject<int>();
-                System.Diagnostics.Debug.WriteLine(fileName);
-                
-            }
         }
 
         public void FileOpen(object sender, RoutedEventArgs e) //Call on file -> open
@@ -70,12 +55,32 @@ namespace XDColloWPF
 
         private void RandomizeButton_Click(object sender, RoutedEventArgs e)
         {
-            FileHandle.FileHandling.FileTree(fpath);
+            //FileHandle.FileHandling.FileTree(fpath);
         }
 
         private void ListBox_SelectionChanged(object sender, System.Windows.Controls.SelectionChangedEventArgs e)
         {
+            // Load the JSON file and parse its contents into a list of objects
+            string json = File.ReadAllText(@"C:\Users\penot\OneDrive\Documents\GitHub\XDColloGUIWin\XDColloWPF\XD_GoD_File_Tree.json");
+            // Parse the JSON data
+            JObject jsonData = JObject.Parse(json);
 
+            // Iterate over each key-value pair
+            Dictionary<string, List<int>> tree = new();
+
+            foreach (KeyValuePair<string, JToken> kvp in jsonData)
+            {
+                string fileName = kvp.Key;
+                JArray fileData = (JArray)kvp.Value;
+
+                int offset = fileData[0].ToObject<int>();
+                int size = fileData[1].ToObject<int>();
+                List<int> values = new List<int>() { offset, size };
+
+                tree.Add(fileName, values);
+            }
+            FileTree.ItemsSource = tree.Keys;
+            //System.Diagnostics.Debug.WriteLine(tree);
         }
 
         private void DataGrid_SelectionChanged(object sender, System.Windows.Controls.SelectionChangedEventArgs e)
