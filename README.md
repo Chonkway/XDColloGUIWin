@@ -1,5 +1,5 @@
 # WIP, NONFUNCTIONAL AS OF LATEST COMMIT
-		This tool is a current WIP and updates to the readme will be updated as commits are made. It is currently undergoing a huge rewrite for code clarity and functionality.
+This tool is a current WIP and updates to the readme will be updated as commits are made. It is currently undergoing a huge rewrite for code clarity and functionality.
 
 ---
 ## Credit to:
