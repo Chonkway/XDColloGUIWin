@@ -24,11 +24,11 @@ There are several key features of this tool:
 	- Region,
 	- Filesize
 	- Freespace~~
-- ~~Randomizer~~
-- ~~ROM Cleanup
+~~- Randomizer~~
+~~- ROM Cleanup
 ~- File Tree~~
-	- Lists the file tree of the loaded ISO with their offsets and blocksizes
-	- Supports extracting copies of these files and inserting same-named custom files 
+	~~- Lists the file tree of the loaded ISO with their offsets and blocksizes~~
+	~~- Supports extracting copies of these files and inserting same-named custom files~~
 ~~- Trainer/Pokemon Editor~~
 	- ~~Allows quick customization of individual species data~~
 	- ~~Easy editing of trainers (AI values, Party etc.)~~
