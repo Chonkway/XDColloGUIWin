@@ -1,5 +1,5 @@
 # WIP, NONFUNCTIONAL AS OF LATEST COMMIT
-This tool is a current WIP and updates to the readme will be updated as commits are made. It is currently undergoing a huge rewrite for code clarity and functionality.
+		This tool is a current WIP and updates to the readme will be updated as commits are made. It is currently undergoing a huge rewrite for code clarity and functionality.
 
 ---
 ## Credit to:
@@ -14,22 +14,22 @@ This tool is a current WIP and updates to the readme will be updated as commits 
 ----
 # Primary Functions
 
-`All options with a strikethrough are not present as of the latest commit`
+`All options with a ⚠️ are WIP and not present as of latest commit`
 
 This tool was designed to do everything the original tool by StarsMMD did on Mac with a GUI interface for ease of use, as well as serve as a skeleton for adding more features down the line. The Windows port of the tool is command line only which is serviceable but makes doing large scale editing of the ROM difficult for many.
 
 There are several key features of this tool:
 
-~~- File Overview
+- File Overview ⚠️
 	- Region,
 	- Filesize
-	- Freespace~~
-~~- Randomizer~~
-~~- ROM Cleanup
-~- File Tree~~
-	~~- Lists the file tree of the loaded ISO with their offsets and blocksizes~~
-	~~- Supports extracting copies of these files and inserting same-named custom files~~
-~~- Trainer/Pokemon Editor~~
-	- ~~Allows quick customization of individual species data~~
-	- ~~Easy editing of trainers (AI values, Party etc.)~~
-	- ~~Shadow Pokemon editing~~
+	- Freespace
+- Randomizer⚠️
+- ROM Cleanup⚠️
+- File Tree⚠️
+	- Lists the file tree of the loaded ISO with their offsets and blocksizes
+	- Supports extracting copies of these files and inserting same-named custom files 
+- Trainer/Pokemon Editor⚠️
+	- Allows quick customization of individual species data
+	- Easy editing of trainers (AI values, Party etc.)
+	- Shadow Pokemon editing
