@@ -1,0 +1,117 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GaleOfDarknessTool"
+        x:Class="GaleOfDarknessTool.MainWindow"
+        mc:Ignorable="d"
+        Title="XD:GoD GUI" Height="500" Width="800" 
+        ResizeMode="CanMinimize" >
+
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" x:Name="MenuStrip">
+            <MenuItem Header="File">
+                <MenuItem x:Name ="Openfile" Header="_Open" Click="Openfile_Click"/>
+                <MenuItem Header="_Save"/>
+                <MenuItem Header="_Exit"/>
+                <MenuItem Header = "_Free Space"/>
+
+            </MenuItem>
+            <MenuItem Header = "About"/>
+        </Menu>
+        <TabControl>
+            <TabItem Header="File Info">
+
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="201*"/>
+                        <ColumnDefinition Width="593*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock x:Name ="FileInfo" Grid.ColumnSpan="2" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Randomizer" x:Name ="RandomizerGroup" Height="20" VerticalAlignment="Bottom">
+                <Grid Background="#FFE5E5E5">
+
+                    <TabControl Margin="10,91,10,0">
+
+                        <TabItem Header="Trainers &amp; Wilds"
+                                 ToolTip="Attributes like catch rate of obtainable pokemon, level modifiers, forced evolutions etc."
+                                 >
+                            <Grid>
+                                <GroupBox Header="Trainers" 
+                                      VerticalAlignment="Top" HorizontalAlignment="Center" Width="750" Height="130">
+
+
+                                </GroupBox>
+
+                                <GroupBox Header="PokeSpots"
+                                          VerticalAlignment="Bottom" HorizontalAlignment="Center" Width="750" Height="130">
+
+
+
+                                </GroupBox>
+                            </Grid>
+
+                        </TabItem>
+
+
+                        <TabItem Header="Pokemon" 
+                                 ToolTip="Change attributes inherit to Pokemon like abilities, stats, moves etc.">
+
+                        </TabItem>
+
+
+                    </TabControl>
+                    <ProgressBar HorizontalAlignment="Left" Height="10" Margin="492,103,0,0" VerticalAlignment="Top" Width="292"/>
+
+                </Grid>
+
+            </TabItem>
+
+            <TabItem Header="Tools">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+
+            <TabItem Name="Gamefiles" 
+                     Header="File List" Height="20" VerticalAlignment="Top">
+
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="249*"/>
+                        <ColumnDefinition Width="545*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <ListBox Name="Filetree" SelectedItem="filename"
+                             Margin="10,0,518,0" Height="418" VerticalAlignment="Center" 
+          SelectionChanged="Filetree_SelectionChanged" Grid.ColumnSpan="2"/>
+
+
+
+                    <Button Content="Extract" ToolTip="Extract Selected File"
+                            HorizontalAlignment="Left" Margin="261,182,0,0" VerticalAlignment="Top" Grid.Column="1" Height="100" Width="97"/>
+
+                    <Button Content="Insert" ToolTip="Insert A Modified Copy of The Selected File"
+                            HorizontalAlignment="Left" Margin="51,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.704,1.106" Grid.Column="1" Height="100" Width="96"/>
+
+
+                    <GroupBox x:Name="selectedfileinfo" Header="File Info" 
+                              Margin="51,10,187,267" Grid.Column="1"/>
+
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Tables">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Trainer Editor">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+
+        </TabControl>
+    </DockPanel>
+
+
+
+</Window>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaleOfDarknessTool", "GaleOfDarknessTool\GaleOfDarknessTool.csproj", "{94DBC1F4-A032-4B39-A169-116ED351967A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DBC1F4-A032-4B39-A169-116ED351967A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DBC1F4-A032-4B39-A169-116ED351967A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DBC1F4-A032-4B39-A169-116ED351967A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DBC1F4-A032-4B39-A169-116ED351967A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537C2E77-A349-4898-8623-975DD8DE1861}
+	EndGlobalSection
+EndGlobal
