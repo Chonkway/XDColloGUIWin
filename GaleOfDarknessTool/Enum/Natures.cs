@@ -1,0 +1,1 @@
+﻿// chars for nature values

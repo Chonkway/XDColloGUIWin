@@ -1,0 +1,1 @@
+﻿//contains info for pokemon in their block

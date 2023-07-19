@@ -1,0 +1,1 @@
+﻿// copy fsys by seeking stream at an offset, starting at an offset start and reading to the end of the block, effectively extracting

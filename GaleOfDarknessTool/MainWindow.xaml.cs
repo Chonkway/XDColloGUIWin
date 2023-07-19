@@ -1,8 +1,11 @@
 ﻿using GaleOfDarknessTool.Functions;
+using System;
+using System.Collections;
 using System.Diagnostics;
 using System.IO;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Media;
 
 namespace GaleOfDarknessTool
 {
@@ -19,14 +22,26 @@ namespace GaleOfDarknessTool
 
         }
 
+        [STAThread]
         public void Openfile_Click(object sender, RoutedEventArgs e)
         {
-            Logging log_entry = new Logging();
+            // Initialize classes
+            // severe cleanup needed
+            //-------------
+            Logging log_entry = new();
             string working_directory = Directory.GetCurrentDirectory();
-            var tree = new Filesystem();
+            Load loadiso = new();
+            LoadedGame game = new LoadedGame();
+            var iso = loadiso.GetISO();
 
-            var newpath = Path.Combine(working_directory + @"\JSON\XD_GoD_File_Tree.json");
-            tree.SetFiletree(newpath);
+            LoadedFileInfo.Text = "GameID: " + game.GameID + "\n" + "Game Name: " + game.GameName;
+            //------------------
+
+            var test = loadiso.ArrayTest(iso, 32);
+            Debug.WriteLine(test.ToString());
+            // external class for ofd return path to file
+            // external class for reading bytes, identifying game and displaying image/details
+            //external class for extracting the games needed files (common.rel, trainerdeckdata etc.) 
 
         }
 

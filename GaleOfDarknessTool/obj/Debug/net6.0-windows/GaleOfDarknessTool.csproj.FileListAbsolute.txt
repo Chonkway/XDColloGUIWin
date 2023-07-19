@@ -21,3 +21,5 @@ C:\Users\penot\source\repos\GaleOfDarknessTool\GaleOfDarknessTool\obj\Debug\net6
 C:\Users\penot\source\repos\GaleOfDarknessTool\GaleOfDarknessTool\obj\Debug\net6.0-windows\GaleOfDarknessTool.pdb
 C:\Users\penot\source\repos\GaleOfDarknessTool\GaleOfDarknessTool\obj\Debug\net6.0-windows\GaleOfDarknessTool.genruntimeconfig.cache
 C:\Users\penot\source\repos\GaleOfDarknessTool\GaleOfDarknessTool\obj\Debug\net6.0-windows\ref\GaleOfDarknessTool.dll
+C:\Users\penot\source\repos\GaleOfDarknessTool\GaleOfDarknessTool\obj\Debug\net6.0-windows\GaleOfDarknessTool_Content.g.cs
+C:\Users\penot\source\repos\GaleOfDarknessTool\GaleOfDarknessTool\bin\Debug\net6.0-windows\GaleOfDarknessTool.dll.config

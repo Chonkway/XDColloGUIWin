@@ -1,10 +1,13 @@
 ﻿namespace GaleOfDarknessTool
 {
     // Used to verify the GameID to determine what settings to use
-    internal class Gameloaded
+    public class LoadedGame
     {
-        internal string GameID { get; set; } = string.Empty;
-        internal string GameName { get; set; } = string.Empty;
+        public string? GameID { get; set; }
+        public string? GameName { get; set; }
+        public string? GameLogo { get; set; }
+        public string? GameIcon { get; set; }
+
     }
 
 

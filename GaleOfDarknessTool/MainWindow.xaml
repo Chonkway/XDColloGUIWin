@@ -7,7 +7,8 @@
         x:Class="GaleOfDarknessTool.MainWindow"
         mc:Ignorable="d"
         Title="XD:GoD GUI" Height="500" Width="800" 
-        ResizeMode="CanMinimize" >
+        ResizeMode="CanMinimize"
+    >
 
     <DockPanel>
         <Menu DockPanel.Dock="Top" x:Name="MenuStrip">
@@ -29,6 +30,12 @@
                         <ColumnDefinition Width="593*"/>
                     </Grid.ColumnDefinitions>
                     <TextBlock x:Name ="FileInfo" Grid.ColumnSpan="2" />
+
+                    <GroupBox Header="Loaded Game" Margin="29,181,230,131" Grid.Column="1">
+                        <TextBlock x:Name="LoadedFileInfo" HorizontalAlignment="Left" Padding="20"></TextBlock>
+                    </GroupBox>
+                    <Image Name ="Logo" HorizontalAlignment="Left" Height="213" Margin="29,10,0,0" VerticalAlignment="Top" Width="334" Source="/XD/XD_Logo.png" Grid.Column="1"/>
+
                 </Grid>
             </TabItem>
             <TabItem Header="Randomizer" x:Name ="RandomizerGroup" Height="20" VerticalAlignment="Bottom">
